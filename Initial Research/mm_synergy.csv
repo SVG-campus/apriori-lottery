@@ -1,0 +1,1625 @@
+order,combo,o_info
+3,"('draw_std', 'draw_sum', 'n1_n2_sum')",-0.7094332774016117
+3,"('draw_sum', 'n3_mod5', 'n3_mod7')",-0.5871454449738209
+3,"('draw_range', 'draw_sum', 'n1_n2_sum')",-0.5161928319754701
+3,"('draw_sum', 'n4_mod5', 'n4_mod7')",-0.5065777078053131
+3,"('draw_sum', 'n2_mod5', 'n2_mod7')",-0.48730461492085553
+3,"('draw_std', 'draw_sum', 'n4_n5_sum')",-0.4684809938267449
+3,"('draw_range', 'draw_sum', 'n1_n3_sum')",-0.3899531469798845
+3,"('draw_std', 'draw_sum', 'n1_n3_sum')",-0.3774556897706294
+3,"('draw_sum', 'n5_mod5', 'n5_mod7')",-0.3186756800104682
+3,"('draw_sum', 'n1_mod5', 'n1_mod7')",-0.316446278989325
+3,"('draw_range', 'draw_sum', 'n4_n5_sum')",-0.3083485364556946
+3,"('draw_std', 'draw_sum', 'n2_n3_sum')",-0.28258625853898245
+3,"('draw_std', 'draw_sum', 'n3_n5_sum')",-0.2358154586973047
+3,"('draw_range', 'draw_sum', 'n3_n5_sum')",-0.2350812273108005
+3,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.1923146740011923
+3,"('draw_std', 'draw_sum', 'n1_delta')",-0.1827271642374395
+3,"('draw_range', 'draw_sum', 'n1_delta')",-0.1825634615120162
+3,"('draw_range', 'draw_sum', 'n2_n3_sum')",-0.18078101230821453
+3,"('draw_std', 'draw_sum', 'n2_delta')",-0.17437785105533798
+3,"('draw_range_roll_mean', 'draw_sum', 'n4_delta')",-0.17341838050821323
+3,"('draw_std_roll_mean', 'draw_sum', 'n4_delta')",-0.1689216366141686
+3,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.16376713016240885
+3,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.15508632688921153
+3,"('draw_sum', 'n1_mod3', 'n1_mod7')",-0.15239842740432863
+3,"('draw_range', 'draw_sum', 'n2_delta')",-0.14894140304685166
+3,"('draw_std_roll_mean', 'draw_sum', 'n3_delta')",-0.14677802254535166
+3,"('draw_range_roll_mean', 'draw_sum', 'n3_delta')",-0.1451500823142915
+3,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.14476190957111612
+3,"('draw_std', 'draw_sum', 'n2_delta2')",-0.1385236225763169
+3,"('draw_range', 'draw_sum', 'n4_delta2')",-0.13331511364159354
+3,"('draw_std_roll_mean', 'draw_sum', 'n2_delta')",-0.13263497731635887
+3,"('draw_range_roll_mean', 'draw_sum', 'n2_delta2')",-0.13151823101057047
+3,"('draw_range', 'draw_sum', 'n1_delta2')",-0.13146951102573823
+3,"('draw_range_roll_mean', 'draw_sum', 'n4_delta2')",-0.12935701214942696
+3,"('draw_range_roll_mean', 'draw_sum', 'n2_delta')",-0.12928473176056698
+3,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta2')",-0.12891272146399402
+3,"('draw_range', 'draw_sum', 'n5_mod7')",-0.12837240668846306
+3,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta2')",-0.12696351067285505
+3,"('draw_std', 'draw_sum', 'n1_delta2')",-0.12612495408565394
+3,"('draw_std_roll_mean', 'draw_sum', 'n2_delta2')",-0.12597718794783574
+3,"('draw_range', 'draw_sum', 'n2_delta2')",-0.12504948174718677
+3,"('draw_std', 'draw_sum', 'sum_hurst')",-0.12474191675109125
+3,"('draw_std_roll_mean', 'draw_sum', 'n4_delta2')",-0.12470009192467302
+3,"('draw_range', 'draw_sum', 'sum_hurst')",-0.12462653071780139
+3,"('draw_sum', 'n2_delta2', 'sum_hurst')",-0.12151910417958511
+3,"('draw_range_roll_mean', 'draw_sum', 'n3_mod7')",-0.12098511477735485
+3,"('draw_sum', 'draw_sum_roll_mean', 'n3_mod7')",-0.12076902524276534
+3,"('draw_sum', 'n3_mod7', 'sum_hurst')",-0.11997234805938461
+3,"('draw_range_roll_mean', 'draw_sum', 'n1_mod7')",-0.119555969617128
+3,"('draw_sum', 'n1_delta2', 'sum_hurst')",-0.11842734216919482
+3,"('draw_sum', 'n3_mod3', 'n3_mod7')",-0.1182937234721404
+3,"('draw_range', 'draw_sum', 'n1_mod7')",-0.11788143843227772
+3,"('draw_std_roll_mean', 'draw_sum', 'n4_mod7')",-0.1173253965501182
+3,"('draw_range', 'draw_sum', 'n2_mod7')",-0.11725510385596749
+3,"('draw_range_roll_mean', 'draw_sum', 'n2_mod7')",-0.11714793522811817
+3,"('draw_range_roll_mean', 'draw_sum', 'n4_mod7')",-0.11700528384445619
+3,"('draw_range', 'draw_sum', 'n3_delta')",-0.11676029598975823
+3,"('draw_range_roll_mean', 'draw_sum', 'n1_delta2')",-0.11624192138136635
+3,"('draw_range_roll_std', 'draw_sum', 'n4_delta')",-0.11611545772535337
+3,"('draw_std', 'draw_sum', 'n1_mod7')",-0.1156919224807531
+3,"('draw_std_roll_mean', 'draw_sum', 'n1_mod7')",-0.11546098664589621
+3,"('draw_std_roll_mean', 'draw_sum', 'n5_mod7')",-0.11522195204957697
+3,"('draw_sum', 'mb_delta', 'n1_delta2')",-0.11486214383073623
+3,"('draw_range_roll_mean', 'draw_sum', 'n5_mod7')",-0.11468662494143089
+3,"('draw_std_roll_mean', 'draw_sum', 'n2_mod7')",-0.11458287792694577
+3,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta')",-0.1140476901934484
+3,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta2')",-0.11397600799550389
+3,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod7')",-0.11344914001991668
+3,"('draw_sum', 'n3_mod7', 'n5_delta2')",-0.1126039768042908
+3,"('draw_std', 'draw_sum', 'n2_mod7')",-0.11260308273841702
+3,"('draw_sum', 'n4_delta', 'sum_hurst')",-0.11216963981403438
+3,"('draw_std', 'draw_sum', 'n4_mod7')",-0.11188083054248565
+3,"('draw_range', 'draw_sum', 'n3_mod7')",-0.1118581290491214
+3,"('draw_sum', 'n5_mod7', 'sum_hurst')",-0.11107986140169857
+3,"('draw_sum', 'n1_delta2', 'n3_mod7')",-0.11057002173706465
+3,"('draw_std', 'draw_sum', 'n3_n4_sum')",-0.11048797235235241
+3,"('draw_range', 'draw_sum', 'n4_delta')",-0.11033459961727843
+3,"('draw_std', 'draw_sum', 'n3_mod7')",-0.1103273011268655
+3,"('draw_range_roll_mean', 'draw_sum', 'n1_delta')",-0.1102483486623882
+3,"('draw_std_roll_mean', 'draw_sum', 'n3_mod7')",-0.11012841426156683
+3,"('draw_sum', 'mb_delta', 'n2_mod7')",-0.1100918316922801
+3,"('draw_sum', 'n4_delta2', 'sum_hurst')",-0.11006346056924521
+3,"('draw_range', 'draw_sum', 'mb_delta')",-0.11000775895499615
+3,"('draw_std', 'draw_sum', 'n4_delta2')",-0.1097809798612932
+3,"('draw_std', 'draw_sum', 'draw_sum_roll_mean')",-0.10939600147091255
+3,"('draw_sum', 'n2_mod3', 'n2_mod7')",-0.10841160569840547
+3,"('draw_std_roll_mean', 'draw_sum', 'n3_delta2')",-0.10811487953348298
+3,"('draw_std', 'draw_sum', 'n5_mod7')",-0.10809221857252993
+3,"('draw_std', 'draw_sum', 'n3_delta')",-0.108014884982639
+3,"('draw_std_roll_std', 'draw_sum', 'n4_delta')",-0.10754167042325236
+3,"('draw_sum', 'draw_sum_roll_mean', 'n5_mod7')",-0.10722008099671854
+3,"('draw_sum', 'n1_mod7', 'sum_hurst')",-0.10704917455093366
+3,"('draw_sum', 'mb_delta', 'n2_delta2')",-0.10693718863648982
+3,"('draw_range_roll_mean', 'draw_std', 'draw_sum')",-0.10690529193713871
+3,"('draw_sum', 'n2_delta2', 'n5_mod7')",-0.10662981719650588
+3,"('draw_sum', 'n2_delta2', 'n4_mod7')",-0.10646967688243336
+3,"('draw_sum', 'n2_delta', 'sum_hurst')",-0.10637361185178129
+3,"('draw_sum', 'n3_mod7', 'n4_delta2')",-0.1057742246190756
+3,"('draw_std_roll_mean', 'draw_sum', 'n1_delta2')",-0.10550543907462995
+3,"('draw_sum', 'n2_delta2', 'n3_mod7')",-0.10539220144169548
+3,"('draw_range_roll_mean', 'draw_sum', 'n3_delta2')",-0.10538969161447476
+3,"('draw_sum', 'draw_sum_roll_mean', 'n4_mod7')",-0.10536419202400182
+3,"('draw_sum', 'n1_mod7', 'n4_delta2')",-0.1051941386632258
+3,"('draw_sum', 'mb_delta', 'n4_delta2')",-0.10518366032568949
+3,"('draw_sum', 'n2_mod7', 'n4_delta2')",-0.10488456990940342
+3,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod7')",-0.10409688531496997
+3,"('draw_sum', 'n1_mod7', 'n2_delta2')",-0.10325371203129485
+3,"('draw_std', 'draw_sum', 'n3_delta2')",-0.10186445775509156
+3,"('draw_sum', 'n1_mod7', 'n4_mod7')",-0.10166058671627809
+3,"('draw_std', 'draw_std_roll_mean', 'draw_sum')",-0.10163668719106411
+3,"('draw_range', 'draw_sum', 'n3_delta2')",-0.10002320062900338
+3,"('draw_sum', 'n3_delta', 'sum_hurst')",-0.09972350809746189
+3,"('draw_sum', 'n2_mod7', 'n4_mod7')",-0.09909579492070719
+3,"('draw_sum', 'n2_mod7', 'sum_hurst')",-0.09904928455630113
+3,"('draw_sum', 'n4_delta2', 'n4_mod7')",-0.09859166638307215
+3,"('draw_sum', 'mb_delta', 'n5_mod7')",-0.09849104762702154
+3,"('draw_std', 'draw_sum', 'mb_delta')",-0.09831622785559802
+3,"('draw_sum', 'mb_delta', 'n3_mod7')",-0.0981291344972739
+3,"('draw_sum', 'mb_delta', 'n4_mod7')",-0.09795541343715897
+3,"('draw_sum', 'mb_delta', 'n4_delta')",-0.09779121157999171
+3,"('draw_std_roll_mean', 'draw_sum', 'n1_delta')",-0.09761692429347946
+3,"('draw_range', 'draw_range_roll_mean', 'draw_sum')",-0.09761449401646516
+3,"('draw_sum', 'n2_delta', 'n4_mod7')",-0.09757339859957526
+3,"('draw_range_roll_std', 'draw_sum', 'n4_delta2')",-0.09657337732281945
+3,"('draw_range', 'draw_sum', 'n4_mod7')",-0.09645652889984646
+3,"('draw_sum', 'n1_delta2', 'n5_delta2')",-0.09639401504149525
+3,"('draw_sum', 'n2_mod7', 'n5_delta2')",-0.09626880983447172
+3,"('draw_sum', 'n4_mod7', 'sum_hurst')",-0.09613989033294246
+3,"('draw_std_roll_std', 'draw_sum', 'n2_delta')",-0.09612500620772657
+3,"('draw_std_roll_std', 'draw_sum', 'n3_delta')",-0.0946760620255862
+3,"('draw_sum', 'n3_delta2', 'sum_hurst')",-0.09442485729366723
+3,"('draw_sum', 'n3_mod7', 'n5_delta')",-0.0939535402648417
+3,"('draw_sum', 'n2_delta2', 'n2_mod7')",-0.09385475279857403
+3,"('draw_sum', 'n4_delta2', 'n5_mod7')",-0.09370932844134927
+3,"('draw_std_roll_std', 'draw_sum', 'n2_delta2')",-0.09320681659816543
+3,"('draw_sum', 'n5_delta2', 'n5_mod7')",-0.09295711092453551
+3,"('draw_sum', 'mb_delta', 'n1_mod7')",-0.0927977852580959
+3,"('draw_range_roll_std', 'draw_sum', 'n3_delta')",-0.0927402995809441
+3,"('draw_std', 'draw_sum', 'n5_delta2')",-0.09203404348350297
+3,"('draw_sum', 'n1_delta2', 'n4_mod7')",-0.09197626847758578
+3,"('draw_sum', 'n3_delta2', 'n4_mod7')",-0.09193123105035994
+3,"('draw_sum', 'n1_delta2', 'n2_mod7')",-0.09190015060481471
+3,"('draw_sum', 'draw_sum_roll_std', 'n4_delta')",-0.09155293123242458
+3,"('draw_sum', 'n2_mod7', 'n3_delta2')",-0.09154304163764415
+3,"('draw_sum', 'n4_mod7', 'n5_delta2')",-0.09132879460558385
+3,"('draw_sum', 'mb_delta', 'n3_delta')",-0.09092717898212932
+3,"('draw_sum', 'mb_delta', 'n3_delta2')",-0.09092622334604883
+3,"('draw_sum', 'n4_mod7', 'n5_mod7')",-0.0906525083346672
+3,"('draw_sum', 'n1_mod7', 'n3_mod7')",-0.09038410338288116
+3,"('draw_range', 'draw_sum', 'n1_n4_sum')",-0.0900782803476119
+3,"('draw_range', 'draw_sum', 'draw_sum_roll_mean')",-0.08980634135062715
+3,"('draw_sum', 'n2_mod7', 'n3_delta')",-0.08978069754294538
+3,"('draw_std_roll_std', 'draw_sum', 'n4_delta2')",-0.089772704645112
+3,"('draw_range_roll_std', 'draw_sum', 'n3_mod7')",-0.08955500703458519
+3,"('draw_sum', 'n5_delta', 'n5_mod7')",-0.0891078043546436
+3,"('draw_sum', 'n2_mod7', 'n5_mod7')",-0.08892095226321928
+3,"('draw_sum', 'n2_mod7', 'n5_delta')",-0.08879850634125752
+3,"('draw_range', 'draw_sum', 'n1_mod5')",-0.08867641596490117
+3,"('draw_sum', 'n1_delta2', 'n5_delta')",-0.08862781088113891
+3,"('draw_sum', 'mb_delta', 'n2_delta')",-0.08844919041369259
+3,"('draw_range', 'draw_sum', 'n5_mod5')",-0.08838822382084288
+3,"('draw_sum', 'n1_delta2', 'n1_mod7')",-0.08795613651562562
+3,"('draw_std_roll_std', 'draw_sum', 'n4_mod7')",-0.08771604483648154
+3,"('draw_sum', 'n1_mod7', 'n3_delta2')",-0.08724965362581116
+3,"('draw_range_roll_std', 'draw_sum', 'n5_mod7')",-0.08723857997265227
+3,"('draw_sum', 'n4_delta', 'n4_mod7')",-0.08707168086766437
+3,"('draw_range_roll_std', 'draw_sum', 'n2_delta')",-0.0868773423871918
+3,"('draw_sum', 'n1_delta', 'sum_hurst')",-0.08640750368155992
+3,"('draw_sum', 'n1_mod7', 'n2_delta')",-0.0862887288627352
+3,"('draw_sum', 'n1_delta2', 'n5_mod7')",-0.08561376702509094
+3,"('draw_sum', 'n2_mod7', 'n4_delta')",-0.08551751168747401
+3,"('draw_range_roll_std', 'draw_sum', 'n4_mod7')",-0.08551067869029616
+3,"('draw_std', 'draw_sum', 'n1_mod5')",-0.08523183997155215
+3,"('draw_sum', 'n3_mod7', 'n5_mod7')",-0.08510095589059574
+3,"('draw_range', 'draw_std_roll_mean', 'draw_sum')",-0.08497597342554286
+3,"('draw_sum', 'n1_mod7', 'n5_mod7')",-0.08493951378926923
+3,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod5')",-0.08467408150458589
+3,"('draw_std_roll_std', 'draw_sum', 'n3_delta2')",-0.08465480257459568
+3,"('draw_sum', 'n2_delta', 'n2_mod7')",-0.08455214850302895
+3,"('draw_sum', 'n1_mod7', 'n2_mod7')",-0.08424701048441463
+3,"('draw_sum', 'mb_delta', 'n5_mod5')",-0.08383838853928616
+3,"('draw_std_roll_mean', 'draw_sum', 'n4_mod5')",-0.08381409451096644
+3,"('draw_range_roll_std', 'draw_sum', 'n2_mod7')",-0.08377260514591356
+3,"('draw_range_roll_mean', 'draw_sum', 'n3_mod5')",-0.08344052222999387
+3,"('draw_std', 'draw_sum', 'n3_mod5')",-0.08334943729689037
+3,"('draw_sum', 'n2_delta2', 'n5_delta2')",-0.0832111283225423
+3,"('draw_sum', 'n3_mod7', 'n4_delta')",-0.08312881481500511
+3,"('draw_range_roll_mean', 'draw_sum', 'n4_mod5')",-0.08299199561882986
+3,"('draw_std', 'draw_sum', 'n4_delta')",-0.08292476407732607
+3,"('draw_std_roll_std', 'draw_sum', 'n5_mod7')",-0.08278906366932404
+3,"('draw_std_roll_std', 'draw_sum', 'n2_mod7')",-0.08235443708304757
+3,"('draw_std_roll_std', 'draw_sum', 'n3_mod7')",-0.08225212052716735
+3,"('draw_range_roll_std', 'draw_sum', 'n2_delta2')",-0.08199862611293973
+3,"('draw_range', 'draw_sum', 'n5_delta2')",-0.08195629052370101
+3,"('draw_sum', 'n1_mod7', 'n5_delta2')",-0.08056237425195611
+3,"('draw_sum', 'n3_mod7', 'n4_mod7')",-0.08029459661967664
+3,"('draw_sum', 'n3_delta2', 'n3_mod7')",-0.0801602757573523
+3,"('draw_sum', 'n3_delta', 'n3_mod7')",-0.08000183036092245
+3,"('draw_sum', 'n3_delta', 'n4_mod7')",-0.07999057642501661
+3,"('draw_sum', 'n4_mod7', 'n5_delta')",-0.07977542822325034
+3,"('draw_sum', 'n5_mod5', 'sum_hurst')",-0.07965306114268778
+3,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod5')",-0.0795302724924909
+3,"('draw_range_roll_std', 'draw_sum', 'n1_delta2')",-0.079460832354874
+3,"('draw_sum', 'n2_mod7', 'n3_mod7')",-0.07938821794108009
+3,"('draw_sum', 'n1_delta', 'n3_mod7')",-0.079158335150046
+3,"('draw_sum', 'n1_mod5', 'n2_delta2')",-0.079020078491153
+3,"('draw_std', 'draw_sum', 'n4_mod5')",-0.07897027946773783
+3,"('draw_sum', 'n4_mod5', 'sum_hurst')",-0.07895109099590947
+3,"('draw_sum', 'n2_delta2', 'n3_mod5')",-0.07891920768196137
+3,"('draw_sum', 'draw_sum_roll_std', 'n2_delta2')",-0.07881386554615233
+3,"('draw_range_roll_std', 'draw_sum', 'n3_delta2')",-0.07836816453003514
+3,"('draw_sum', 'draw_sum_roll_mean', 'n4_mod5')",-0.0782523602253633
+3,"('draw_sum', 'n2_delta', 'n5_mod7')",-0.07762458022050467
+3,"('draw_sum', 'draw_sum_roll_std', 'n4_delta2')",-0.0775723448501342
+3,"('draw_sum', 'n1_delta2', 'n3_mod5')",-0.07753742639015115
+3,"('draw_sum', 'n4_delta2', 'n5_mod5')",-0.0773953701910397
+3,"('draw_sum', 'mb_delta', 'n2_mod5')",-0.07723564440084019
+3,"('draw_sum', 'n1_mod3', 'n1_mod5')",-0.07722660648519408
+3,"('draw_sum', 'n3_mod7', 'n4_mod5')",-0.07721548549617907
+3,"('draw_std', 'draw_sum', 'draw_sum_roll_std')",-0.07704000422597268
+3,"('draw_range_roll_mean', 'draw_sum', 'n5_mod5')",-0.07688457793437387
+3,"('draw_range_roll_std', 'draw_sum', 'n1_mod7')",-0.07663350418753012
+3,"('draw_sum', 'n3_delta2', 'n5_mod7')",-0.07645873640057665
+3,"('draw_sum', 'draw_sum_roll_mean', 'n3_mod5')",-0.07635086556724247
+3,"('draw_sum', 'n2_delta2', 'n2_mod5')",-0.0762838583647607
+3,"('draw_sum', 'draw_sum_roll_std', 'n3_delta')",-0.07613379780061003
+3,"('draw_sum', 'mb_delta', 'n3_mod5')",-0.07598264456343884
+3,"('draw_sum', 'n3_delta', 'n5_mod7')",-0.07591234715792616
+3,"('draw_range_roll_mean', 'draw_sum', 'n2_mod5')",-0.07556375192701381
+3,"('draw_sum', 'mb_delta', 'n1_delta')",-0.07548964031030891
+3,"('draw_std', 'draw_sum', 'n5_mod5')",-0.075356429093965
+3,"('draw_sum', 'n2_delta', 'n3_mod7')",-0.07523511764444635
+3,"('draw_sum', 'draw_sum_roll_std', 'n4_mod7')",-0.07497998513753856
+3,"('draw_std_roll_mean', 'draw_sum', 'n3_mod5')",-0.07490062820589927
+3,"('draw_sum', 'n1_delta2', 'n4_delta2')",-0.07476378103757142
+3,"('draw_range_roll_std', 'draw_std', 'draw_sum')",-0.07449490285177873
+3,"('draw_range_roll_mean', 'draw_sum', 'n1_mod5')",-0.07440217225123114
+3,"('draw_sum', 'n4_delta', 'n5_mod7')",-0.0743177866036806
+3,"('draw_sum', 'draw_sum_roll_mean', 'n5_mod5')",-0.07387811529854638
+3,"('draw_sum', 'n3_mod5', 'n4_delta2')",-0.07361545106964051
+3,"('draw_std_roll_mean', 'draw_sum', 'n1_mod5')",-0.07347218713300485
+3,"('draw_range', 'draw_sum', 'n3_n4_sum')",-0.07327782750283518
+3,"('draw_std_roll_mean', 'draw_sum', 'n2_mod5')",-0.07319817656901151
+3,"('draw_sum', 'n4_mod3', 'n4_mod7')",-0.0731031257197845
+3,"('draw_range', 'draw_sum', 'n4_mod5')",-0.07301288541102835
+3,"('draw_std_roll_mean', 'draw_sum', 'n5_mod5')",-0.07266616523391889
+3,"('draw_sum', 'n1_delta2', 'n2_mod5')",-0.07265208193999761
+3,"('draw_std_roll_std', 'draw_sum', 'n1_delta2')",-0.07251530858637878
+3,"('draw_range', 'draw_sum', 'n3_mod5')",-0.07234319253901944
+3,"('draw_range', 'draw_sum', 'n2_mod5')",-0.07232872275477575
+3,"('draw_std_roll_std', 'draw_sum', 'n1_mod7')",-0.071892396866712
+3,"('draw_sum', 'n3_mod5', 'n4_mod7')",-0.07140499228838237
+3,"('draw_sum', 'n2_delta', 'n3_mod5')",-0.07125501208938267
+3,"('draw_sum', 'n5_delta2', 'n5_mod5')",-0.07124564912232856
+3,"('draw_sum', 'n1_mod7', 'n4_delta')",-0.07092492052388621
+3,"('draw_sum', 'draw_sum_roll_std', 'n2_delta')",-0.07081745770942405
+3,"('draw_std', 'draw_std_roll_std', 'draw_sum')",-0.07079385308362163
+3,"('draw_sum', 'n1_mod5', 'n4_delta2')",-0.07039832328690565
+3,"('draw_sum', 'n3_mod5', 'sum_hurst')",-0.07029648815308676
+3,"('draw_std', 'draw_sum', 'n2_mod5')",-0.07026077521376806
+3,"('draw_sum', 'n3_mod5', 'n5_delta')",-0.07019208449155734
+3,"('draw_sum', 'n2_delta2', 'n5_mod5')",-0.070189288118641
+3,"('draw_sum', 'n1_mod5', 'n4_mod7')",-0.06995412206454432
+3,"('draw_sum', 'n1_mod7', 'n3_delta')",-0.06949771257465542
+3,"('draw_sum', 'n2_mod7', 'n4_mod5')",-0.06939685698113429
+3,"('draw_sum', 'n2_delta2', 'n5_delta')",-0.06930184230720116
+3,"('draw_sum', 'n2_mod5', 'sum_hurst')",-0.06923893529559777
+3,"('draw_range', 'draw_range_roll_std', 'draw_sum')",-0.06904404825065313
+3,"('draw_sum', 'n2_mod7', 'n3_mod5')",-0.06893617845516964
+3,"('draw_sum', 'n1_delta', 'n5_mod7')",-0.068864928059309
+3,"('draw_sum', 'n1_mod5', 'n2_mod7')",-0.0685724678852413
+3,"('draw_sum', 'n1_delta', 'n4_n5_sum')",-0.0684627857326312
+3,"('draw_sum', 'n2_delta2', 'n4_mod5')",-0.06832770901367091
+3,"('draw_sum', 'draw_sum_roll_std', 'n1_delta2')",-0.06804371255112329
+3,"('draw_sum', 'n1_mod7', 'n5_delta')",-0.06802984809064583
+3,"('draw_sum', 'n3_mod5', 'n5_delta2')",-0.06763042204786274
+3,"('draw_range_roll_std', 'draw_sum', 'n1_delta')",-0.06751047209129446
+3,"('draw_sum', 'n4_delta2', 'n4_mod5')",-0.06747902537358641
+3,"('draw_sum', 'n1_delta', 'n2_mod7')",-0.067467957850317
+3,"('draw_std', 'draw_sum', 'n5_delta')",-0.0672594246434759
+3,"('draw_sum', 'n2_mod5', 'n5_delta2')",-0.06717412026186587
+3,"('draw_sum', 'draw_sum_roll_std', 'n2_mod7')",-0.06697431491393147
+3,"('draw_sum', 'n1_delta2', 'n1_mod5')",-0.06680329040129607
+3,"('draw_sum', 'n1_mod5', 'sum_hurst')",-0.06602346576157103
+3,"('draw_sum', 'n1_mod7', 'n5_mod5')",-0.06585904354286498
+3,"('draw_sum', 'draw_sum_roll_std', 'n3_mod7')",-0.06562220816109843
+3,"('draw_sum', 'mb_delta', 'n1_mod5')",-0.06543783279081694
+3,"('draw_sum', 'n1_delta', 'n4_mod7')",-0.06529705078774484
+3,"('draw_sum', 'n1_mod7', 'n4_mod5')",-0.06521738649246345
+3,"('draw_sum', 'n1_delta2', 'n2_delta2')",-0.06509413356147142
+3,"('draw_sum', 'n3_delta2', 'n4_mod5')",-0.06471241024777541
+3,"('draw_sum', 'n1_mod5', 'n3_mod7')",-0.06468860683488131
+3,"('draw_sum', 'draw_sum_roll_std', 'n1_mod7')",-0.06439911096235562
+3,"('draw_range', 'draw_sum', 'n5_delta')",-0.06402097165977594
+3,"('draw_sum', 'n1_mod5', 'n3_delta2')",-0.06385209439621065
+3,"('draw_sum', 'n3_mod5', 'n5_mod7')",-0.06341655779175959
+3,"('draw_sum', 'n4_mod7', 'n5_mod5')",-0.06336606614110174
+3,"('draw_sum', 'n4_mod5', 'n5_delta')",-0.06326566500743169
+3,"('draw_sum', 'n2_delta2', 'n4_delta2')",-0.06325171933454854
+3,"('draw_sum', 'n1_mod7', 'n2_mod5')",-0.06305664131518007
+3,"('draw_sum', 'n2_delta', 'n2_mod5')",-0.06278032593405314
+3,"('draw_sum', 'n2_mod5', 'n3_delta2')",-0.06277469092615817
+3,"('draw_sum', 'n2_mod5', 'n4_delta2')",-0.06275555421121837
+3,"('draw_sum', 'n2_delta', 'n4_mod5')",-0.062380938359783755
+3,"('draw_sum', 'n3_mod7', 'n5_mod5')",-0.06211277553951433
+3,"('draw_range', 'draw_std_roll_std', 'draw_sum')",-0.06200278287555783
+3,"('draw_sum', 'n3_delta2', 'n5_delta2')",-0.061729615087601886
+3,"('draw_range_roll_std', 'draw_sum', 'n4_mod5')",-0.061693428571324205
+3,"('draw_sum', 'n1_mod5', 'n5_mod7')",-0.06165701617134545
+3,"('draw_std_roll_std', 'draw_sum', 'n4_mod5')",-0.06151674804847751
+3,"('draw_sum', 'mb_delta', 'n4_mod5')",-0.06149342282768622
+3,"('draw_sum', 'n5_delta', 'n5_mod5')",-0.061491201287395825
+3,"('draw_sum', 'n4_delta', 'n4_mod5')",-0.06142447022114794
+3,"('draw_std_roll_std', 'draw_sum', 'n5_mod5')",-0.06104585809302421
+3,"('draw_sum', 'n1_delta', 'n1_mod7')",-0.060553853986588635
+3,"('draw_sum', 'n3_delta2', 'n5_mod5')",-0.06015302962599378
+3,"('draw_sum', 'n1_mod5', 'n5_delta')",-0.06003901234629261
+3,"('draw_sum', 'n2_mod5', 'n3_mod7')",-0.05993965176723748
+3,"('draw_range', 'draw_sum', 'draw_sum_roll_std')",-0.05988157008483874
+3,"('draw_sum', 'n1_delta', 'n5_delta2')",-0.05986932529488698
+3,"('draw_sum', 'n1_delta2', 'n4_mod5')",-0.05973490479767207
+3,"('draw_sum', 'n4_mod5', 'n5_delta2')",-0.059697707961293034
+3,"('draw_sum', 'n3_delta2', 'n3_mod5')",-0.059677124223481925
+3,"('draw_sum', 'n4_mod5', 'n5_mod7')",-0.059392799124061924
+3,"('draw_sum', 'n3_mod5', 'n4_delta')",-0.0592971434890579
+3,"('draw_sum', 'n1_delta', 'n5_delta')",-0.05927055772998813
+3,"('draw_sum', 'draw_sum_roll_std', 'n3_delta2')",-0.059250436171012666
+3,"('draw_sum', 'n2_delta', 'n5_mod5')",-0.05923738251269128
+3,"('draw_sum', 'n3_delta', 'n3_mod5')",-0.058953415813261856
+3,"('draw_sum', 'draw_sum_roll_std', 'n5_mod7')",-0.05867938999399769
+3,"('draw_sum', 'n2_mod5', 'n4_mod7')",-0.05842491294258778
+3,"('draw_sum', 'n1_delta2', 'n2_delta')",-0.058292413030178736
+3,"('draw_sum', 'n1_mod5', 'n5_delta2')",-0.05817129701820001
+3,"('draw_std_roll_std', 'draw_sum', 'n1_delta')",-0.058050717897341286
+3,"('draw_sum', 'n5_mod3', 'n5_mod7')",-0.05799860584950878
+3,"('draw_sum', 'n2_mod5', 'n5_mod7')",-0.05780738940613794
+3,"('draw_sum', 'n3_delta', 'n4_mod5')",-0.05771630357445723
+3,"('draw_sum', 'n2_mod5', 'n4_delta')",-0.057638901354003735
+3,"('draw_std_roll_std', 'draw_sum', 'n3_mod5')",-0.057194221100786535
+3,"('draw_sum', 'n1_delta2', 'n5_mod5')",-0.05684286322766674
+3,"('draw_sum', 'n2_delta', 'n5_delta2')",-0.056718999073746446
+3,"('draw_sum', 'n1_delta', 'n3_mod5')",-0.05646718377223614
+3,"('draw_sum', 'n4_delta', 'n5_mod5')",-0.056255154266500185
+3,"('draw_std_roll_std', 'draw_sum', 'n2_mod5')",-0.05624205367262114
+3,"('draw_range_roll_std', 'draw_sum', 'n3_mod5')",-0.056034926650831096
+3,"('draw_sum', 'draw_sum_roll_std', 'n1_delta')",-0.05599967402484296
+3,"('draw_sum', 'n1_delta', 'n4_delta2')",-0.055639534280613745
+3,"('draw_sum', 'n2_mod5', 'n5_delta')",-0.055031194602026545
+3,"('draw_sum', 'n2_mod7', 'n5_mod5')",-0.05496336567125404
+3,"('draw_sum', 'n3_delta', 'n5_mod5')",-0.05470498027701787
+3,"('draw_sum', 'n1_mod5', 'n2_delta')",-0.0544980547612095
+3,"('draw_sum', 'n2_mod5', 'n3_delta')",-0.05440569429699238
+3,"('draw_sum', 'n1_delta2', 'n3_delta')",-0.05423880791099478
+3,"('draw_range_roll_std', 'draw_sum', 'n1_mod5')",-0.0540427586763812
+3,"('draw_range_roll_std', 'draw_sum', 'n5_mod5')",-0.05392494826781835
+3,"('draw_range_roll_std', 'draw_sum', 'n2_mod5')",-0.05377163260371276
+3,"('draw_sum', 'n1_mod5', 'n3_delta')",-0.05332066868630925
+3,"('draw_sum', 'n1_mod7', 'n1_parity')",-0.05248266350564279
+3,"('draw_sum', 'n1_mod5', 'n4_mod5')",-0.05206995747450982
+3,"('draw_sum', 'n1_mod7', 'n3_mod5')",-0.051559585181172096
+3,"('draw_sum', 'n3_mod7', 'n4_n5_sum')",-0.0510205024393926
+3,"('draw_sum', 'n1_delta', 'n4_mod5')",-0.050845982379634336
+3,"('draw_sum', 'n5_mod3', 'sum_hurst')",-0.05069743624343559
+3,"('draw_sum', 'n1_n5_sum', 'n2_mod7')",-0.05024155856600565
+3,"('draw_std_roll_std', 'draw_sum', 'n1_mod5')",-0.05006456742184007
+4,"('draw_sum', 'n3_mod3', 'n3_mod5', 'n3_mod7')",-2.499644829586071
+4,"('draw_sum', 'n4_mod3', 'n4_mod5', 'n4_mod7')",-2.4696256950406834
+4,"('draw_sum', 'n2_mod3', 'n2_mod5', 'n2_mod7')",-2.226210662545107
+4,"('draw_range', 'draw_sum', 'n5_mod5', 'n5_mod7')",-2.054130164659636
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n3_parity')",-2.042767487395814
+4,"('draw_sum', 'n5_mod3', 'n5_mod5', 'n5_mod7')",-1.9824721078851653
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n4_parity')",-1.961807949472096
+4,"('draw_std', 'draw_sum', 'n5_mod5', 'n5_mod7')",-1.8350803668834672
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n2_parity')",-1.7667927280557834
+4,"('draw_std', 'draw_sum', 'n2_mod5', 'n2_mod7')",-1.7407236892461668
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n1_mod7')",-1.6867365611950405
+4,"('draw_std', 'draw_sum', 'n4_mod5', 'n4_mod7')",-1.6731893298798255
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n1_mod7')",-1.5463017311449043
+4,"('draw_sum', 'n5_mod5', 'n5_mod7', 'n5_parity')",-1.513650184908652
+4,"('draw_sum', 'n1_mod3', 'n1_mod5', 'n1_mod7')",-1.4694432171089282
+4,"('draw_std', 'draw_sum', 'n3_mod5', 'n3_mod7')",-1.417466601915791
+4,"('draw_range', 'draw_sum', 'n2_mod5', 'n2_mod7')",-1.4167477341683892
+4,"('draw_range', 'draw_sum', 'n4_mod5', 'n4_mod7')",-1.4049628951674507
+4,"('draw_range', 'draw_sum', 'n3_mod5', 'n3_mod7')",-1.2877954036350943
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_mod5', 'n3_mod7')",-1.2433198803786496
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_mod5', 'n3_mod7')",-1.2375781614400516
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_mod5', 'n4_mod7')",-1.2256549315965835
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_mod5', 'n3_mod7')",-1.223445523864065
+4,"('draw_range_roll_mean', 'draw_sum', 'n5_mod5', 'n5_mod7')",-1.2175611221556828
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n1_mod7')",-1.2130494104002096
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_mod5', 'n4_mod7')",-1.2098842260279454
+4,"('draw_sum', 'draw_sum_roll_mean', 'n5_mod5', 'n5_mod7')",-1.2030838270523354
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_mod5', 'n4_mod7')",-1.197435024420031
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n1_parity')",-1.1929648573982448
+4,"('draw_sum', 'n3_delta', 'n3_mod5', 'n3_mod7')",-1.1898229217389158
+4,"('draw_std_roll_mean', 'draw_sum', 'n5_mod5', 'n5_mod7')",-1.1884024739858532
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod5', 'n2_mod7')",-1.171831457530974
+4,"('draw_sum', 'n4_delta', 'n4_mod5', 'n4_mod7')",-1.1568888670366775
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_mod7')",-1.1568124385325014
+4,"('draw_sum', 'n2_mod7', 'n3_mod5', 'n3_mod7')",-1.149543082554672
+4,"('draw_sum', 'n1_n2_sum', 'n4_mod5', 'n4_mod7')",-1.1449878949613783
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_n5_sum')",-1.144022645261149
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod5', 'n2_mod7')",-1.1424658647745964
+4,"('draw_sum', 'mb_delta', 'n3_mod5', 'n3_mod7')",-1.1340921498778442
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod5', 'n2_mod7')",-1.133636354926221
+4,"('draw_sum', 'n1_mod7', 'n3_mod5', 'n3_mod7')",-1.131228866998633
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'sum_hurst')",-1.1264910210848527
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_mod7')",-1.1154343472497885
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n5_mod7')",-1.1106999448025832
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n5_mod7')",-1.1103702072803117
+4,"('draw_sum', 'n2_delta2', 'n3_mod5', 'n3_mod7')",-1.103000442727982
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_mod7')",-1.0989655877602615
+4,"('draw_sum', 'n2_delta', 'n2_mod5', 'n2_mod7')",-1.0983944408137951
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_mod7')",-1.0946589621190341
+4,"('draw_sum', 'n3_mod7', 'n4_mod5', 'n4_mod7')",-1.081801204509972
+4,"('draw_sum', 'n3_delta2', 'n3_mod5', 'n3_mod7')",-1.080300056156311
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_mod7', 'n4_delta')",-1.0770021021908995
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_delta2')",-1.072934118161875
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n1_mod7')",-1.071341935812871
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n5_delta2')",-1.0692454436201473
+4,"('draw_sum', 'n1_mod7', 'n4_mod5', 'n4_mod7')",-1.069080688786741
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod7', 'n2_delta2')",-1.0684288307615226
+4,"('draw_range_roll_std', 'draw_sum', 'n3_mod5', 'n3_mod7')",-1.0684271249753863
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'sum_hurst')",-1.0644748039778946
+4,"('draw_sum', 'n2_mod7', 'n4_mod5', 'n4_mod7')",-1.0639422159387841
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_mod7')",-1.0613951629670737
+4,"('draw_range', 'draw_sum', 'n2_mod7', 'n4_delta2')",-1.0587935064888185
+4,"('draw_sum', 'n2_delta2', 'n4_mod5', 'n4_mod7')",-1.05624949146209
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n5_mod7')",-1.0559274963729806
+4,"('draw_sum', 'n2_delta2', 'n2_mod5', 'n2_mod7')",-1.054383561469887
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_delta')",-1.0516080469747386
+4,"('draw_sum', 'n4_delta2', 'n4_mod5', 'n4_mod7')",-1.0502147596324498
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n5_mod7')",-1.0479720169816211
+4,"('draw_sum', 'mb_delta', 'n4_mod5', 'n4_mod7')",-1.046888706661644
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n4_mod7')",-1.0452483749320045
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod7', 'n4_delta')",-1.0436746646531034
+4,"('draw_sum', 'n1_delta2', 'n3_mod5', 'n3_mod7')",-1.0435457746308643
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'sum_hurst')",-1.0433078879485969
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_mod7')",-1.041390326688358
+4,"('draw_sum', 'n1_n5_sum', 'n3_mod5', 'n3_mod7')",-1.0411162622316752
+4,"('draw_std_roll_std', 'draw_sum', 'n3_mod5', 'n3_mod7')",-1.0408396616202324
+4,"('draw_sum', 'n1_mod7', 'n2_mod5', 'n2_mod7')",-1.0381491998324144
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n5_mod7')",-1.0380684278534673
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n5_delta')",-1.0371263745346617
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n5_mod7')",-1.0345593454213429
+4,"('draw_sum', 'n2_delta', 'n3_mod5', 'n3_mod7')",-1.0341843093458394
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n4_mod7')",-1.0311331604647975
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod7', 'n4_delta')",-1.0295729740000255
+4,"('draw_sum', 'mb_delta', 'n2_mod5', 'n2_mod7')",-1.029479453236327
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_delta2')",-1.0226278932978374
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n2_mod7')",-1.0198987286423744
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_mod7')",-1.0038090878936359
+4,"('draw_range', 'draw_sum', 'n3_mod7', 'n4_delta2')",-1.0034125312249635
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod7', 'n4_delta')",-1.0020470461050337
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n2_delta2')",-1.0015260152726064
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_mod7', 'n4_delta')",-1.0000130948156816
+4,"('draw_sum', 'n1_n2_sum', 'n2_mod5', 'n2_mod7')",-0.9987828425989775
+4,"('draw_sum', 'n1_mod5', 'n3_mod5', 'n3_mod7')",-0.9984812188503902
+4,"('draw_range_roll_std', 'draw_sum', 'n4_mod5', 'n4_mod7')",-0.9978545693029304
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n5_mod5')",-0.997730359194243
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'sum_hurst')",-0.9962668590215777
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.9944996185033546
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.9939582647422434
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n5_mod7')",-0.9937824694776367
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_mod7')",-0.9925623160720463
+4,"('draw_sum', 'n2_delta', 'n4_mod5', 'n4_mod7')",-0.9889341750895042
+4,"('draw_sum', 'draw_sum_roll_std', 'n3_mod5', 'n3_mod7')",-0.988826560586471
+4,"('draw_sum', 'n1_delta2', 'n4_mod5', 'n4_mod7')",-0.98619367028288
+4,"('draw_sum', 'n2_mod5', 'n3_mod5', 'n3_mod7')",-0.986147485385839
+4,"('draw_sum', 'n3_delta2', 'n4_mod5', 'n4_mod7')",-0.9846982801042401
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_mod7')",-0.9833858713826835
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n5_delta')",-0.9818119390666631
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n4_mod7')",-0.9803903550459054
+4,"('draw_sum', 'n3_delta', 'n4_mod5', 'n4_mod7')",-0.9793037808076441
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_mod5')",-0.9774355512963346
+4,"('draw_sum', 'n1_delta', 'n3_mod5', 'n3_mod7')",-0.9768138499639534
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n5_delta2')",-0.9765489068851458
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n4_delta2')",-0.9764630436964161
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'sum_hurst')",-0.9756204614418849
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n5_mod7')",-0.9740951247205629
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod7', 'n3_delta')",-0.9739502602407164
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod7', 'n3_delta')",-0.9729440606561219
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'sum_hurst')",-0.9722348415309447
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_mod7', 'n4_delta')",-0.97222015887521
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_mod7')",-0.9714033649160392
+4,"('draw_sum', 'n5_delta', 'n5_mod5', 'n5_mod7')",-0.9709624862656945
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n1_parity')",-0.9702711044297985
+4,"('draw_std_roll_std', 'draw_sum', 'n4_mod5', 'n4_mod7')",-0.9692128136535558
+4,"('draw_sum', 'n5_mod5', 'n5_mod7', 'sum_hurst')",-0.9685891382296923
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'sum_hurst')",-0.9679719707857402
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n3_mod7')",-0.9678132447335877
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n4_mod7')",-0.9675439206516643
+4,"('draw_sum', 'n4_n5_sum', 'n5_mod5', 'n5_mod7')",-0.9670914807750819
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n5_delta')",-0.9665786831689367
+4,"('draw_sum', 'n1_delta2', 'n2_mod5', 'n2_mod7')",-0.9665658696135537
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_mod7')",-0.9659849497991182
+4,"('draw_range_roll_std', 'draw_sum', 'n2_mod5', 'n2_mod7')",-0.9655746864969714
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.9641098223769404
+4,"('draw_std_roll_std', 'draw_sum', 'n2_mod5', 'n2_mod7')",-0.9637426459626752
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.9624875290844557
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n5_delta2')",-0.9587358344543411
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_delta')",-0.9581611133086909
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'sum_hurst')",-0.9576939028917444
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta2')",-0.9543194945430429
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n5_mod7')",-0.9539180966281364
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod7', 'n4_delta')",-0.953478662513568
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n2_delta2')",-0.95194835816935
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n4_n5_sum')",-0.9510977195887804
+4,"('draw_sum', 'n1_delta', 'n4_mod5', 'n4_mod7')",-0.9510782035427496
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n4_mod7')",-0.9499297625048833
+4,"('draw_sum', 'n2_mod7', 'n5_mod5', 'n5_mod7')",-0.9480994124706115
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n5_mod7')",-0.9472361182389193
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_delta2')",-0.9459402923051243
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_mod7')",-0.9435800482921977
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n5_mod7')",-0.9433522155933716
+4,"('draw_sum', 'n3_mod7', 'n5_mod5', 'n5_mod7')",-0.9425238257698147
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod7', 'n4_delta')",-0.9403099060569886
+4,"('draw_sum', 'n2_delta', 'n5_mod5', 'n5_mod7')",-0.9397881776691719
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod7', 'n3_delta')",-0.9394825312793884
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n3_mod7')",-0.9390623883874873
+4,"('draw_sum', 'draw_sum_roll_std', 'n4_mod5', 'n4_mod7')",-0.9380423854439428
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_n5_sum')",-0.9358832529309744
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n2_mod7')",-0.9348313730919742
+4,"('draw_range_roll_std', 'draw_sum', 'n5_mod5', 'n5_mod7')",-0.931514222660141
+4,"('draw_std_roll_std', 'draw_sum', 'n5_mod5', 'n5_mod7')",-0.9309125756942933
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n3_mod7')",-0.9283065741453811
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n2_delta2')",-0.9257134855449181
+4,"('draw_sum', 'n1_mod5', 'n2_mod5', 'n2_mod7')",-0.9226804593626667
+4,"('draw_sum', 'n1_n2_sum', 'n5_mod5', 'n5_mod7')",-0.9222610922558836
+4,"('draw_sum', 'n3_mod5', 'n4_mod5', 'n4_mod7')",-0.9221653567751744
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod7', 'n3_delta')",-0.9221179838434921
+4,"('draw_sum', 'mb_delta', 'n5_mod5', 'n5_mod7')",-0.9216137578822767
+4,"('draw_sum', 'n1_delta', 'n2_mod5', 'n2_mod7')",-0.9199930506326872
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n5_mod7')",-0.9194935578237242
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_delta')",-0.9191105024252124
+4,"('draw_sum', 'n4_mod7', 'n5_mod5', 'n5_mod7')",-0.9176754433513636
+4,"('draw_sum', 'n1_mod7', 'n5_mod5', 'n5_mod7')",-0.9162877430995735
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_mod5')",-0.9154461943921213
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod7', 'n2_delta')",-0.9144013947489142
+4,"('draw_sum', 'n2_mod5', 'n4_mod5', 'n4_mod7')",-0.9131635824052644
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n5_mod7')",-0.9118047816276444
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod7', 'n4_delta')",-0.9114082693063956
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n3_mod7')",-0.9089900444539545
+4,"('draw_sum', 'n2_delta2', 'n5_mod5', 'n5_mod7')",-0.9085994081119786
+4,"('draw_sum', 'n4_delta2', 'n5_mod5', 'n5_mod7')",-0.907793549948611
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod7', 'n3_delta')",-0.9075940122064736
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_mod7')",-0.904746828278622
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n2_delta2')",-0.9044973801355809
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n4_delta2')",-0.9042108282184387
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n4_delta2')",-0.9027794813690377
+4,"('draw_sum', 'n1_mod5', 'n4_mod5', 'n4_mod7')",-0.9009419987413416
+4,"('draw_std', 'draw_sum', 'n2_delta', 'sum_hurst')",-0.9005279532843211
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n5_mod7')",-0.9000080560966417
+4,"('draw_sum', 'draw_sum_roll_std', 'n2_mod5', 'n2_mod7')",-0.8991087988165525
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n1_n2_sum')",-0.897589640890029
+4,"('draw_range', 'draw_sum', 'n2_delta', 'sum_hurst')",-0.8974236668481907
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_mod7')",-0.8972085345385601
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'sum_hurst')",-0.8971533717974971
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'sum_hurst')",-0.897106874582164
+4,"('draw_sum', 'n5_delta2', 'n5_mod5', 'n5_mod7')",-0.896121848802494
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n5_mod7')",-0.8946669102214955
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_mod7')",-0.8943608900470217
+4,"('draw_sum', 'n4_delta', 'n5_mod5', 'n5_mod7')",-0.8928630112963596
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n5_mod5')",-0.891190249601717
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n5_mod7')",-0.8895897877700385
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_mod7')",-0.8875018398138579
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n4_delta2')",-0.8874735017115256
+4,"('draw_sum', 'n3_delta', 'n5_mod5', 'n5_mod7')",-0.8869478971747959
+4,"('draw_sum', 'draw_sum_roll_mean', 'mb_delta', 'n2_delta2')",-0.8857623578764731
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'sum_hurst')",-0.8849712361197177
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n3_mod5')",-0.884778994790171
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_mod7')",-0.8841456664673579
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_mod7')",-0.8834372687873966
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod5', 'n2_delta2')",-0.8813235839870401
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_mod7')",-0.8798761985869028
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.8788318672070403
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.8765141751255285
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n4_delta')",-0.8764056798664797
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.8745004066067459
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_mod5')",-0.8742639726934627
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n2_mod5')",-0.8737333618540752
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_mod7')",-0.873023207521225
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n4_mod5')",-0.8722691594958967
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n5_mod5')",-0.8705952705673958
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_delta2')",-0.8702073948072382
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod7', 'n3_delta')",-0.8685389533055847
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n5_mod5')",-0.8679350970721771
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'sum_hurst')",-0.8676281082269774
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n2_delta')",-0.8665987695714179
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n1_n2_sum')",-0.8656569818750839
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n4_delta2')",-0.8644648985160863
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_mod5')",-0.8634030058677702
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'sum_hurst')",-0.862639876646913
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.8613591939319392
+4,"('draw_sum', 'n1_n2_sum', 'n3_mod5', 'n3_mod7')",-0.8590118276638243
+4,"('draw_sum', 'draw_sum_roll_mean', 'mb_delta', 'n4_delta')",-0.8572982494229855
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n5_mod5')",-0.8536135649620107
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_mod5')",-0.8528249795728371
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n3_delta2')",-0.850879471890547
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_mod5')",-0.8492258165791604
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n1_n2_sum')",-0.8488126993150935
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n5_delta2')",-0.8463046850575395
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod5', 'n4_delta')",-0.8438398243605505
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'sum_hurst')",-0.8408612162876956
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n4_delta')",-0.8406059180764132
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n5_delta2')",-0.8391993472172423
+4,"('draw_sum', 'n3_delta2', 'n5_mod5', 'n5_mod7')",-0.83879060561123
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n4_mod5')",-0.8376616229466833
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n2_mod7')",-0.8366561451545067
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_delta')",-0.8352705281136323
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n4_delta')",-0.8346834148819013
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n4_mod7')",-0.8343466499196559
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'sum_hurst')",-0.8334338608695582
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n2_delta')",-0.8321790444103456
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n4_delta')",-0.8303025101231363
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod5', 'n1_mod7')",-0.8293692755300448
+4,"('draw_sum', 'n1_delta2', 'n5_mod5', 'n5_mod7')",-0.8270668727892421
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod5', 'n1_mod7')",-0.8258612397674767
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n3_mod7')",-0.8252897547847908
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n2_delta2')",-0.8247722468387657
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n5_mod7')",-0.8197409735812009
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod5', 'n1_mod7')",-0.8176082345089206
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n1_n2_sum')",-0.8146889394795167
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n5_mod5')",-0.8143677654090169
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_mod3')",-0.8127387989909991
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n3_delta')",-0.8117731476762771
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_mod5')",-0.8108386255964639
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n2_delta')",-0.8101803774230092
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n3_mod3')",-0.8092925270021993
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n2_mod3')",-0.8082235952003884
+4,"('draw_sum', 'n2_mod3', 'n3_mod5', 'n3_mod7')",-0.8082160582098723
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n4_mod3')",-0.8075997054729136
+4,"('draw_sum', 'draw_sum_roll_std', 'n5_mod5', 'n5_mod7')",-0.8072251905189631
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n3_delta')",-0.8066815575052857
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n5_mod5')",-0.8060705614961918
+4,"('draw_sum', 'n1_delta', 'n5_mod5', 'n5_mod7')",-0.8053083252384035
+4,"('draw_range_roll_mean', 'draw_sum', 'mb_delta', 'n4_delta')",-0.8016361434118764
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n3_delta')",-0.8011382611968543
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n5_delta')",-0.8010709696479665
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_mod5', 'n4_delta')",-0.8007747467296866
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n5_mod3')",-0.8001389554603904
+4,"('draw_range', 'draw_sum', 'n2_delta2', 'n4_delta2')",-0.7992758568294
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_delta2', 'n4_delta')",-0.7978633554178245
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n3_delta')",-0.7970950565895585
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n2_delta2')",-0.7959820368693755
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_delta2')",-0.7946062881096161
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n1_n2_sum')",-0.7939816686971035
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n5_mod3')",-0.7922905246785525
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n2_delta')",-0.7921361642111009
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n5_mod7')",-0.7909080628195007
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n2_delta2')",-0.7900384149903772
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n5_delta2')",-0.7900371742525678
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n1_n2_sum')",-0.7897864969166015
+4,"('draw_range', 'draw_sum', 'n2_mod5', 'n4_delta2')",-0.7893703844898106
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n5_mod5')",-0.788531263681989
+4,"('draw_sum', 'n2_n3_sum', 'n5_mod5', 'n5_mod7')",-0.7874936428197437
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n1_n2_sum')",-0.7872450170102105
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_mod7')",-0.7868588450205216
+4,"('draw_sum', 'n1_mod3', 'n3_mod5', 'n3_mod7')",-0.7854923636354272
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n2_delta')",-0.7854384764026534
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod5', 'n4_delta')",-0.7839778490711531
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_mod5')",-0.7839231040851615
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n4_delta2')",-0.7834476964665527
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n5_mod7')",-0.7833874286380329
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_mod7')",-0.783341317262213
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_mod7')",-0.7827587986059363
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n2_delta')",-0.7827251753265045
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n4_delta2')",-0.7825185491813258
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta2', 'n4_delta')",-0.7821907244794275
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n1_n2_sum')",-0.7806329109645844
+4,"('draw_sum', 'n1_n3_sum', 'n5_mod5', 'n5_mod7')",-0.7803137329908694
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n4_delta2')",-0.7796980972067296
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_mod5')",-0.7784880587740908
+4,"('draw_std', 'draw_sum', 'n1_delta', 'sum_hurst')",-0.7781262644839266
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n2_delta')",-0.7771249723485028
+4,"('draw_sum', 'n4_mod5', 'n5_mod5', 'n5_mod7')",-0.7764708066668682
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_delta2')",-0.7762640513411583
+4,"('draw_std_roll_mean', 'draw_sum', 'mb_delta', 'n4_delta')",-0.7759163231686017
+4,"('draw_sum', 'draw_sum_roll_mean', 'mb_delta', 'n2_delta')",-0.7755998702961904
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n4_mod5')",-0.773448637668622
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n2_parity')",-0.7728432043548672
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_mod5')",-0.7727449646697906
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n1_n2_sum')",-0.772545513361873
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n2_delta2')",-0.7715156103333456
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod5', 'n3_delta')",-0.771368790449749
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_delta2', 'n4_delta')",-0.7700227677695857
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_mod5', 'n4_delta')",-0.7695723408099404
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n5_delta2')",-0.7692317506311426
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n5_mod5')",-0.7686979429747716
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'sum_hurst')",-0.7677953528849777
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n3_mod5')",-0.767424950992492
+4,"('draw_sum', 'n2_n3_sum', 'n3_mod5', 'n3_mod7')",-0.7672823647883575
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n1_n2_sum')",-0.767021451840975
+4,"('draw_sum', 'n2_n3_sum', 'n4_mod5', 'n4_mod7')",-0.7662645067490068
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n4_delta')",-0.7660811670864014
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_mod7')",-0.7656942060820668
+4,"('draw_range', 'draw_sum', 'n1_delta', 'sum_hurst')",-0.7653258158436529
+4,"('draw_sum', 'n3_mod5', 'n5_mod5', 'n5_mod7')",-0.7649199434889127
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n4_delta2')",-0.7643926548864464
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n2_mod5')",-0.7640445387095411
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n5_parity')",-0.7632015391287617
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n3_parity')",-0.7631274766190543
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_mod5', 'n4_delta')",-0.7623406494756253
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_mod7')",-0.761856535583501
+4,"('draw_sum', 'n1_delta', 'n1_mod5', 'n1_mod7')",-0.7617321555270422
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_mod7')",-0.7610456772282284
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n2_delta')",-0.7591924581167859
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_delta2', 'n4_delta')",-0.7589917822002477
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod5', 'n4_delta')",-0.7580274275933014
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n5_mod7')",-0.7568873808039456
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n1_n2_sum')",-0.7564264460831467
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n1_n2_sum')",-0.7561568516937633
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n5_mod5')",-0.7556937832831707
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n2_mod5')",-0.7554217171394058
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n4_mod5')",-0.7551563978498983
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_mod5')",-0.7540929356030439
+4,"('draw_sum', 'n1_n5_sum', 'n4_mod5', 'n4_mod7')",-0.7539135630370559
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_mod5')",-0.7535994622188795
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n4_parity')",-0.7534951363298923
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n4_delta2')",-0.7532804196790899
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_mod7')",-0.7530960271136173
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n5_mod5')",-0.7522376178081736
+4,"('draw_sum', 'n2_mod5', 'n5_mod5', 'n5_mod7')",-0.7510426715897367
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n1_parity')",-0.7507173395235789
+4,"('draw_sum', 'draw_sum_roll_mean', 'mb_delta', 'n3_delta')",-0.7494135786194143
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod5', 'n4_delta')",-0.7493143939296445
+4,"('draw_sum', 'n1_n3_sum', 'n4_mod5', 'n4_mod7')",-0.7492799606658131
+4,"('draw_range', 'draw_sum', 'n3_mod5', 'n4_delta2')",-0.7492138838114428
+4,"('draw_sum', 'mb_delta', 'n1_mod5', 'n1_mod7')",-0.7486845464852578
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_n5_sum')",-0.7478013535259258
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_mod7')",-0.7467382113438958
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_mod7')",-0.7463938997671633
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod5', 'n3_delta')",-0.7453245610865373
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod5', 'n4_delta')",-0.7433720280846501
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n3_mod5')",-0.7430483078535381
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta2', 'n3_delta')",-0.7430344862706058
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_delta')",-0.7416802513001031
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n5_mod5')",-0.7412797815080303
+4,"('draw_sum', 'n1_mod5', 'n5_mod5', 'n5_mod7')",-0.7410216325668877
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod5', 'n2_delta')",-0.740781774631035
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_mod7')",-0.7395024304622062
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_delta2')",-0.7394831879894177
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n5_delta2')",-0.7382460622389573
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n5_mod5')",-0.7381786817311919
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n3_delta')",-0.7378298598815185
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n1_n2_sum')",-0.7363912566922863
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n5_mod5')",-0.7347984130039755
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n4_mod5')",-0.7340234302102715
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n5_mod5')",-0.7334260174669147
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_delta2')",-0.7333702512685392
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod5', 'n4_delta')",-0.7331083653762889
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n5_mod7')",-0.7329815077397939
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta2', 'n2_delta2')",-0.7323856245873621
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n1_n2_sum')",-0.7320115768632078
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n3_delta2')",-0.7319739901764635
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_n5_sum')",-0.7307719915927642
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n5_delta2')",-0.7305392849991534
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n5_mod5')",-0.7299375532274475
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n4_mod5')",-0.7291954086919858
+4,"('draw_sum', 'n1_n5_sum', 'n2_mod5', 'n2_mod7')",-0.727611118280862
+4,"('draw_std_roll_mean', 'draw_sum', 'mb_delta', 'n3_delta')",-0.7272434092838935
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n2_delta2')",-0.7271823249715617
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_delta2')",-0.7269525648673785
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_mod5')",-0.7266250432446206
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_mod5')",-0.7257457810754318
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n5_delta2')",-0.7228707697378383
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n5_mod3')",-0.722024464859377
+4,"('draw_sum', 'n3_mod3', 'n4_mod5', 'n4_mod7')",-0.7202722767630547
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n2_delta')",-0.7200890499169468
+4,"('draw_sum', 'n1_parity', 'n3_mod5', 'n3_mod7')",-0.7197929304051129
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n5_delta2')",-0.7186461713188947
+4,"('draw_std', 'draw_sum', 'n4_mod7', 'n4_n5_sum')",-0.7185917699640996
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_delta2', 'n4_delta')",-0.7180874894430431
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_mod5')",-0.7174614047512691
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n3_mod5')",-0.7172858378276281
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n2_delta2')",-0.7170107140902324
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n5_delta')",-0.7158319962547992
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod5', 'n3_delta')",-0.7156254467146681
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n1_n2_sum')",-0.7146787155251566
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n2_n3_sum')",-0.713789540518917
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_delta2')",-0.7128921365447773
+4,"('draw_sum', 'n1_delta2', 'n1_mod5', 'n1_mod7')",-0.712760162814245
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n5_delta2')",-0.7102940874251402
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n5_delta2')",-0.7102353272926614
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_mod5')",-0.7088977750457808
+4,"('draw_sum', 'n1_n5_sum', 'n5_mod5', 'n5_mod7')",-0.7083351248180065
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_mod7')",-0.7078214267852232
+4,"('draw_sum', 'n2_mod3', 'n4_mod5', 'n4_mod7')",-0.7076843208130157
+4,"('draw_sum', 'n2_parity', 'n3_mod5', 'n3_mod7')",-0.702685921557471
+4,"('draw_sum', 'n1_mod3', 'n4_mod5', 'n4_mod7')",-0.701777250710677
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_delta2', 'n3_delta')",-0.7015318081602899
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n1_delta')",-0.7012788507235399
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n5_delta2')",-0.7012145758077608
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_delta2', 'n3_delta')",-0.7005087566070145
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_mod3')",-0.7002783094738021
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_mod5')",-0.6993023081318093
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_delta')",-0.6992467464895427
+4,"('draw_range_roll_mean', 'draw_sum', 'mb_delta', 'n3_delta')",-0.699093400010927
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n2_delta')",-0.6990282841138615
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_mod5')",-0.6982991158659075
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n1_delta')",-0.6981379233620544
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n3_n4_sum')",-0.6976102089363039
+4,"('draw_sum', 'n1_mod3', 'n2_mod5', 'n2_mod7')",-0.6973537240851613
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n1_delta')",-0.6967655467090204
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n5_delta2')",-0.696684562296845
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod5', 'n3_delta')",-0.6965180935825686
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'sum_hurst')",-0.6963430776184438
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_mod5')",-0.695971444805334
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n5_delta')",-0.69578574791365
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n4_delta')",-0.6956914136046137
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_mod5')",-0.6956275584289564
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n5_parity')",-0.6955203935806935
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod5', 'n3_delta')",-0.694200903953508
+4,"('draw_std', 'draw_sum', 'n3_mod7', 'n4_n5_sum')",-0.6940309972003043
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n5_delta')",-0.6921951086259348
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod5', 'n3_delta')",-0.6920462128754572
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_delta')",-0.691612978997771
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n5_mod3')",-0.6908058767467331
+4,"('draw_range_roll_std', 'draw_sum', 'n1_mod5', 'n1_mod7')",-0.6903943952848195
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n3_mod5')",-0.6899320635803363
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_delta2')",-0.6893094953381258
+4,"('draw_sum', 'n3_n4_sum', 'n4_mod5', 'n4_mod7')",-0.6892849246354409
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta', 'n4_delta')",-0.6877858430112909
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n2_delta')",-0.6874720223708977
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n4_delta2')",-0.6867668894825094
+4,"('draw_std', 'draw_sum', 'n2_mod7', 'n4_n5_sum')",-0.6859018142057351
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta', 'n2_delta2')",-0.6853657408066063
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n4_parity')",-0.6846881152429312
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n5_delta2')",-0.6842633165704726
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_mod3')",-0.6821196871209771
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n2_delta')",-0.681348041580577
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_delta2')",-0.6808372292291835
+4,"('draw_sum', 'n2_n5_sum', 'n3_mod5', 'n3_mod7')",-0.6800596791818982
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_delta')",-0.6799233454849727
+4,"('draw_std_roll_std', 'draw_sum', 'n1_mod5', 'n1_mod7')",-0.6775063362376343
+4,"('draw_range_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.6772664482299078
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n5_delta')",-0.6770402825930084
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n5_mod7')",-0.676163881865179
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n5_mod5')",-0.6748007110724323
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n2_delta')",-0.674354483944061
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_delta', 'n4_delta')",-0.6727973423459801
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_delta2')",-0.671205513070877
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_delta2', 'n3_delta')",-0.6711755243079374
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta2', 'n2_delta')",-0.6694042974370262
+4,"('draw_sum', 'n1_n3_sum', 'n3_mod5', 'n3_mod7')",-0.6693063846556875
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_delta2', 'n3_delta')",-0.6685149095949008
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n1_delta')",-0.6684662477939582
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n5_mod7')",-0.6683297663532208
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n5_delta2')",-0.665699064787681
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n2_delta')",-0.6654169349497501
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_n5_sum')",-0.6645873758870948
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n4_n5_sum')",-0.6642947719848848
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n1_n2_sum')",-0.6622271724407973
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n2_delta2')",-0.6587454431361195
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n2_delta')",-0.6578480144965866
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_delta2')",-0.6577823154002047
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n3_mod7')",-0.657084240872166
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_mod5')",-0.6532303681116787
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n1_n2_sum')",-0.6526412906129266
+4,"('draw_range', 'draw_sum', 'n3_delta', 'n4_delta2')",-0.6519996653221511
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta2', 'n4_delta')",-0.651807211551148
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n4_mod7')",-0.650877180055442
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n2_mod7')",-0.6500989366884298
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n1_n2_sum')",-0.6486714343667579
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n4_mod3')",-0.6486701997512228
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_mod5')",-0.6474372150959979
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_delta', 'n4_delta')",-0.6472299761083207
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n5_delta')",-0.6463348298451344
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n3_mod3')",-0.6462114774653216
+4,"('draw_std', 'draw_sum', 'n2_mod5', 'n4_n5_sum')",-0.6444596374616403
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n2_delta')",-0.6432851138163578
+4,"('draw_std', 'draw_sum', 'n4_mod5', 'n4_n5_sum')",-0.642648568979908
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n5_mod7')",-0.6425897354071921
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n4_mod7')",-0.641935254325233
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n5_mod7')",-0.6402650035388575
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_delta2')",-0.6399738255549252
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'sum_hurst')",-0.6390057736345369
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n1_n2_sum')",-0.6377173648018903
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n3_mod7')",-0.6375039251323891
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n5_mod3')",-0.6372175870587924
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n3_delta')",-0.6368985971743903
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_delta2')",-0.6367105238458244
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_mod5')",-0.6358345105516108
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'sum_hurst')",-0.6356991402792858
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta2', 'n4_delta')",-0.635492461024679
+4,"('draw_range', 'draw_sum', 'n3_mod7', 'n4_n5_sum')",-0.6354630340303871
+4,"('draw_std', 'draw_sum', 'n3_mod5', 'n4_n5_sum')",-0.6341472083437836
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_delta', 'n4_delta')",-0.6327068387066248
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n3_mod7')",-0.6325935418033168
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n5_mod5')",-0.6320831127196129
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_delta2')",-0.6298070955777426
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'sum_hurst')",-0.6295361853968764
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n2_mod7')",-0.6280342834455865
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n5_delta')",-0.6278339173421088
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n1_delta')",-0.6272976551809819
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n5_delta2')",-0.6266054105023855
+4,"('draw_sum', 'n1_parity', 'n4_mod5', 'n4_mod7')",-0.6261450542451179
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_delta')",-0.6251085338048092
+4,"('draw_sum', 'n3_parity', 'n4_mod5', 'n4_mod7')",-0.6245725769123247
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n5_mod5')",-0.6241190377810995
+4,"('draw_sum', 'draw_sum_roll_std', 'n1_mod5', 'n1_mod7')",-0.6233239132857165
+4,"('draw_sum', 'n2_parity', 'n4_mod5', 'n4_mod7')",-0.6232818172665198
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n2_delta')",-0.6230842635220242
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_parity')",-0.6226217350429053
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n1_n2_sum')",-0.6226127050850998
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n2_mod3')",-0.622552617033115
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n5_delta')",-0.6220907840510321
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_delta')",-0.6209371537196233
+4,"('draw_std_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.6201600015726285
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n1_n3_sum')",-0.6199009157714563
+4,"('draw_std_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.6198917112528832
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n4_n5_sum')",-0.6189375903757579
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n1_delta')",-0.6183850691417021
+4,"('draw_sum', 'n1_n4_sum', 'n3_mod5', 'n3_mod7')",-0.6181124742030697
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n1_n2_sum')",-0.617992758233104
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n4_n5_sum')",-0.6175725600776438
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n4_mod7')",-0.6173260166051406
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_mod5')",-0.6167988389922563
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_delta')",-0.6166499666806757
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n1_delta')",-0.6155146269716454
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_delta')",-0.615021646276201
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n1_n2_sum')",-0.6147437943540623
+4,"('draw_range', 'draw_sum', 'n4_mod7', 'n4_n5_sum')",-0.6146868908797316
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n1_delta')",-0.6140494112320845
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n1_n3_sum')",-0.6138415126039085
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n1_delta')",-0.6131283351669055
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_mod5')",-0.6130116843233253
+4,"('draw_sum', 'n4_mod5', 'n4_mod7', 'n5_parity')",-0.6121030192728227
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_mod5')",-0.6116229326116915
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_delta2')",-0.6108667667821805
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n5_parity')",-0.6105756912231151
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_delta2')",-0.6102678883511281
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_delta2')",-0.6102283755160229
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_delta2')",-0.6100669150969971
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n5_mod5')",-0.6098926887597891
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n5_delta')",-0.6097602989508921
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n5_mod5')",-0.6079949360044807
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n2_n3_sum')",-0.6077470409466983
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n5_mod7')",-0.6075199010218597
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta2', 'n4_delta')",-0.6053651955295365
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_n5_sum')",-0.6049126015427504
+4,"('draw_range', 'draw_sum', 'n2_mod7', 'n4_n5_sum')",-0.6034732208275528
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_delta', 'n4_delta')",-0.601791009734832
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n5_delta2')",-0.6014844010947158
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_mod5')",-0.6002727767986791
+4,"('draw_sum', 'n2_n5_sum', 'n4_mod5', 'n4_mod7')",-0.5995921241929167
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n5_delta')",-0.5989507646378804
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n1_n2_sum')",-0.5985609991926495
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n5_delta2')",-0.5982402409541194
+4,"('draw_sum', 'n1_parity', 'n2_mod5', 'n2_mod7')",-0.597838325167281
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'sum_hurst')",-0.5975827086977255
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n4_parity')",-0.5969966576387726
+4,"('draw_std', 'draw_sum', 'n2_mod7', 'n2_n3_sum')",-0.5962196326054716
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n1_delta')",-0.595862226304817
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n3_n4_sum')",-0.5956170272412002
+4,"('draw_range', 'draw_sum', 'n3_delta2', 'n4_delta2')",-0.5954990115926933
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n1_n3_sum')",-0.5935681608906229
+4,"('draw_range_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.5934354512103113
+4,"('draw_range_roll_mean', 'draw_std_roll_std', 'draw_sum', 'n4_delta')",-0.5932195153367772
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n2_parity')",-0.592957235580279
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta', 'n3_delta')",-0.5928161178444711
+4,"('draw_std', 'draw_sum', 'n3_delta2', 'n4_n5_sum')",-0.592561856559719
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_mod5')",-0.5922206985332181
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n2_delta')",-0.591530744807482
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n2_n3_sum')",-0.5909525524716557
+4,"('draw_std', 'draw_sum', 'n4_delta2', 'n4_n5_sum')",-0.5904823229779659
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_delta')",-0.5895976895770545
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n5_mod5')",-0.588449799594553
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_mod3')",-0.5872059938944645
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_mod5')",-0.5870344837851533
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n4_n5_sum')",-0.5869477447569054
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n1_delta')",-0.5864056046662647
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n1_n3_sum')",-0.5850925766020545
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n3_mod5')",-0.5835808334291421
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n1_delta')",-0.5830312253018874
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_delta2')",-0.5829775428990942
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n5_parity')",-0.5829046285837904
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_mod5')",-0.5827918088727309
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n5_delta')",-0.582456540564305
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n3_mod7')",-0.5816218358307488
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod3', 'n2_delta2')",-0.5815546490996795
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_delta2')",-0.5814641724029421
+4,"('draw_sum', 'n1_n4_sum', 'n4_mod5', 'n4_mod7')",-0.5814485335967063
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n3_parity')",-0.5804255926018556
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n4_parity')",-0.5791492456282299
+4,"('draw_range', 'draw_sum', 'n2_delta2', 'n4_n5_sum')",-0.5779481878026935
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n1_parity')",-0.5769705267950727
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n4_mod3')",-0.5765679938289168
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n5_mod5')",-0.5756161929535324
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_delta2')",-0.5739689398883101
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod3', 'n4_delta')",-0.5735042141337772
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_delta')",-0.5704852333521195
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n5_delta')",-0.5701119680709752
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n4_n5_sum')",-0.569753768290056
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n2_n3_sum')",-0.5691290722885114
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n4_mod5')",-0.569059089982094
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n4_mod5')",-0.5688741625253009
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_mod5')",-0.5686719583847193
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n5_delta')",-0.5680430223654831
+4,"('draw_range_roll_mean', 'draw_range_roll_std', 'draw_sum', 'n4_delta')",-0.5677951513761812
+4,"('draw_sum', 'n3_n5_sum', 'n5_mod5', 'n5_mod7')",-0.5677051912987849
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_delta2')",-0.566963609512964
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n3_mod5')",-0.5663196749945882
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n5_delta')",-0.5659431549269271
+4,"('draw_std', 'draw_sum', 'n1_n2_sum', 'n2_delta')",-0.5655538433696137
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n5_delta')",-0.5649913596729874
+4,"('draw_sum', 'draw_sum_roll_mean', 'draw_sum_roll_std', 'n2_delta2')",-0.5640787688518252
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n2_mod5')",-0.563535754730367
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n4_n5_sum')",-0.5635007042702931
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n1_n3_sum')",-0.5632316373867532
+4,"('draw_std', 'draw_sum', 'n2_mod3', 'n4_n5_sum')",-0.5622885265750099
+4,"('draw_std_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.5613416958951589
+4,"('draw_std', 'draw_sum', 'n4_mod3', 'n4_n5_sum')",-0.5611462948276511
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n5_delta2')",-0.5607038036306768
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_delta', 'n3_delta')",-0.5599603657514685
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n5_mod3')",-0.5583652427774695
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod3', 'n1_mod7')",-0.558083204133613
+4,"('draw_sum', 'n1_mod3', 'n5_mod5', 'n5_mod7')",-0.5575217800535768
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n2_sum', 'n4_delta')",-0.5571082368469931
+4,"('draw_range_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.556570921644088
+4,"('draw_std', 'draw_sum', 'n3_mod3', 'n4_n5_sum')",-0.5561494335497024
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_mod3')",-0.5560810611176485
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_mod3', 'n4_delta')",-0.5558384145674538
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_delta')",-0.5512893011410078
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod3', 'n1_mod7')",-0.551039371830921
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n2_mod5')",-0.5492953994111716
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n4_delta2')",-0.5492370228690184
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n5_mod3')",-0.5491783033745321
+4,"('draw_sum', 'n4_mod3', 'n5_mod5', 'n5_mod7')",-0.5485248347031835
+4,"('draw_sum', 'n1_delta', 'n1_mod3', 'n1_mod7')",-0.5480449692220439
+4,"('draw_sum', 'n3_mod5', 'n3_mod7', 'n3_n5_sum')",-0.5472340757717262
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n2_delta2')",-0.5470250887697432
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n4_delta2')",-0.5465961129582269
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n4_mod7')",-0.5463980711445409
+4,"('draw_range', 'draw_sum', 'n2_mod7', 'n2_n3_sum')",-0.5462508909732691
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_mod3')",-0.5461095236114559
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n2_delta2')",-0.5459708248064672
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_delta', 'n3_delta')",-0.544807582086456
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n1_n3_sum')",-0.5444367490788942
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n1_delta')",-0.5443390084470536
+4,"('draw_range', 'draw_sum', 'n4_mod5', 'n4_n5_sum')",-0.5428869535935661
+4,"('draw_sum', 'n2_mod3', 'n5_mod5', 'n5_mod7')",-0.5422809549074223
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_n4_sum')",-0.5418822019461338
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod3', 'n4_delta')",-0.5412483212717092
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n4_n5_sum')",-0.5408771797112877
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_delta')",-0.5391028171415755
+4,"('draw_sum', 'n3_mod3', 'n5_mod5', 'n5_mod7')",-0.5389254024849812
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n4_n5_sum')",-0.5386107047231334
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n5_mod7')",-0.5382072208524384
+4,"('draw_std_roll_mean', 'draw_std_roll_std', 'draw_sum', 'n4_delta')",-0.5377863259723057
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod3', 'n1_mod7')",-0.5371764985359206
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n5_mod3')",-0.5371622545063346
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n4_delta2')",-0.5369069849251176
+4,"('draw_std', 'draw_sum', 'n2_mod5', 'n2_n3_sum')",-0.5367025197457593
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n5_delta2')",-0.5364518577629447
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n4_mod3')",-0.5332849422396393
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n3_delta2')",-0.5308449024116584
+4,"('draw_sum', 'draw_sum_roll_mean', 'draw_sum_roll_std', 'n4_delta')",-0.5306891767777557
+4,"('draw_range_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.5303558156978525
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n5_mod5')",-0.5301569539207662
+4,"('draw_range', 'draw_sum', 'n2_mod5', 'n4_n5_sum')",-0.5288819681342467
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n2_sum', 'n4_delta')",-0.5286170414891131
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n5_mod5')",-0.5281673621950453
+4,"('draw_range', 'draw_sum', 'n2_mod3', 'n4_delta2')",-0.527986781755061
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n3_mod3')",-0.526568585183945
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod3', 'n4_delta')",-0.5261556595173857
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n2_n3_sum')",-0.5258441323283805
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_mod7')",-0.5250732547730195
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n3_mod5')",-0.5250499407463103
+4,"('draw_range_roll_mean', 'draw_std_roll_std', 'draw_sum', 'n3_delta')",-0.5249237661388158
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n1_delta')",-0.5248031008795806
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n5_delta2')",-0.5241287534121994
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'sum_hurst')",-0.523875315189489
+4,"('draw_range_roll_std', 'draw_std_roll_mean', 'draw_sum', 'n4_delta')",-0.5237586458013581
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n4_parity')",-0.5237315580474444
+4,"('draw_std_roll_mean', 'draw_std_roll_std', 'draw_sum', 'n3_delta')",-0.5213559420103131
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_delta2')",-0.5213144920330244
+4,"('draw_std', 'draw_sum', 'n2_parity', 'n4_n5_sum')",-0.5211351518279095
+4,"('draw_range', 'draw_sum', 'n3_mod5', 'n4_n5_sum')",-0.5210271221973706
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n2_n3_sum')",-0.5204713107166015
+4,"('draw_std', 'draw_sum', 'n2_mod7', 'n3_n5_sum')",-0.5203494556967314
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_delta')",-0.5202604367905934
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n3_delta2')",-0.5190569165805918
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'sum_hurst')",-0.5182455463162228
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n2_sum', 'n4_delta')",-0.5182044199394724
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n5_mod3')",-0.5180933816077236
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_delta')",-0.5175888670971531
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n4_delta2')",-0.5162951393342858
+4,"('draw_range', 'draw_sum', 'n3_delta2', 'n4_n5_sum')",-0.516020827653648
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n2_delta2')",-0.5137953659134524
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n5_delta2')",-0.5137192412356022
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n4_n5_sum')",-0.5136621525619063
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n1_n2_sum')",-0.5133068286058098
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_mod3')",-0.5128817100016363
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n5_parity')",-0.5128537918411311
+4,"('draw_sum', 'n1_n4_sum', 'n2_mod5', 'n2_mod7')",-0.5125900559477117
+4,"('draw_range_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.5121904568367057
+4,"('draw_std', 'draw_sum', 'n3_parity', 'n4_n5_sum')",-0.5121777743813674
+4,"('draw_std_roll_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.5115243244066363
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n2_n3_sum')",-0.5111744409946688
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n4_mod3')",-0.510992012595505
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_delta2')",-0.5094788688462835
+4,"('draw_range', 'draw_sum', 'n2_mod7', 'n3_n5_sum')",-0.509449345963521
+4,"('draw_sum', 'mb_delta', 'n1_mod3', 'n1_mod7')",-0.5091106548862285
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n4_n5_sum')",-0.5080553266248629
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_mod3')",-0.508042164812256
+4,"('draw_std', 'draw_sum', 'n1_parity', 'n4_n5_sum')",-0.5076370119600178
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n3_mod3')",-0.507366505623601
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n1_n3_sum')",-0.5071302572584528
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_mod3')",-0.5070980163185759
+4,"('draw_range', 'draw_sum', 'n3_mod3', 'n4_delta2')",-0.5070972089294266
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n1_n3_sum')",-0.506561578094388
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_n2_sum')",-0.5053745275820845
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n4_n5_sum')",-0.5046727629150105
+4,"('draw_range_roll_std', 'draw_std_roll_mean', 'draw_sum', 'n3_delta')",-0.5043448071427576
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n5_delta')",-0.5042858151741463
+4,"('draw_range_roll_mean', 'draw_range_roll_std', 'draw_sum', 'n3_delta')",-0.5041217012101882
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n2_mod3')",-0.5037633134882604
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n4_mod5')",-0.5036385637629479
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod3', 'n4_delta')",-0.5036075717790922
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_delta')",-0.503302640219836
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n2_delta2')",-0.5030004925496918
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_mod3')",-0.5028897879884866
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_mod7')",-0.5028378161234244
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod3', 'n2_delta')",-0.5026133716226049
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n4_delta2')",-0.5024256258428217
+4,"('draw_std_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta2')",-0.502156326177726
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n5_mod3')",-0.5009053185076482
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n5_mod3')",-0.49981620303175944
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_mod3', 'n3_delta')",-0.4998072373321101
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n5_delta2')",-0.49934897441953296
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n5_mod3')",-0.4992976289195248
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n2_sum', 'n2_delta2')",-0.4992201483347749
+4,"('draw_std', 'draw_sum', 'n3_mod7', 'n3_n5_sum')",-0.49783319791118075
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n4_mod7')",-0.4978033830412123
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_mod3')",-0.49772728445799785
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_mod3', 'n3_delta')",-0.49771775583234046
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n4_mod3')",-0.49697775707555536
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_mod3')",-0.49686795510174875
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod3', 'n4_delta')",-0.49607255419352825
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n4_delta2')",-0.4957349246886409
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_delta')",-0.49517675492700164
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod3', 'n4_delta')",-0.49513415191461974
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n4_delta2')",-0.49359521528402084
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n3_mod3')",-0.4933664779376805
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n1_n3_sum')",-0.49303113760970874
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n5_mod3')",-0.49286518872736806
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n1_n3_sum')",-0.49248860183372756
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_delta', 'n2_delta')",-0.49153522760097346
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n1_n3_sum')",-0.4910689433404656
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n1_n3_sum')",-0.4910022208059246
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_mod3', 'n4_delta')",-0.4903852127032664
+4,"('draw_range', 'draw_sum', 'n1_mod7', 'n3_n5_sum')",-0.4903676619690742
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n5_mod7')",-0.49005516790909454
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_delta2')",-0.4898112759395943
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_mod3')",-0.4887609728407938
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n5_mod3')",-0.48868419888820824
+4,"('draw_sum', 'n2_n5_sum', 'n5_mod5', 'n5_mod7')",-0.4884166676293482
+4,"('draw_sum', 'draw_sum_roll_mean', 'draw_sum_roll_std', 'n3_delta')",-0.48816512999802697
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n5_mod3')",-0.4879803758280268
+4,"('draw_range', 'draw_sum', 'n3_mod7', 'n3_n5_sum')",-0.4870523980929313
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'sum_hurst')",-0.48668560475633527
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n4_mod7')",-0.4865753176545411
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_mod3', 'n3_delta')",-0.4865460438048892
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_n3_sum')",-0.48501147180492055
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n3_delta2')",-0.484944690681111
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_mod7')",-0.48484074622803774
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n4_n5_sum')",-0.4837434225184971
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n2_mod3')",-0.4834391035959591
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_mod3')",-0.4827194389412526
+4,"('draw_sum', 'n3_n5_sum', 'n4_mod5', 'n4_mod7')",-0.48240458532870534
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'sum_hurst')",-0.48233664889688654
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n4_delta2')",-0.4820171133618274
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_mod3', 'n4_delta')",-0.48201666518031416
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_mod3')",-0.48169552113381897
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n2_mod3')",-0.4812748747681823
+4,"('draw_sum', 'n1_delta2', 'n1_mod3', 'n1_mod7')",-0.48071187830637285
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n5_mod3')",-0.48010435811198704
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n4_mod3')",-0.4795619353459841
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n3_mod3')",-0.4782931267245587
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_mod3')",-0.4780838785966459
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n1_n3_sum')",-0.47781516937905266
+4,"('draw_std', 'draw_sum', 'n1_mod7', 'n3_n5_sum')",-0.4763361261295209
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n5_mod3')",-0.4761233835641363
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n5_mod7')",-0.47568862305737625
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n4_mod3')",-0.47545540307971734
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n3_mod5')",-0.4752028950694651
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n5_mod3')",-0.4749003412123223
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n1_n3_sum')",-0.47436005501515055
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n2_n3_sum')",-0.4742253428434253
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n4_n5_sum')",-0.4737707546170782
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n5_mod3')",-0.4724691746492873
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n1_n3_sum')",-0.4721838804301086
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n5_delta')",-0.4721555084308662
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n3_mod3')",-0.4719532645958182
+4,"('draw_range_roll_mean', 'draw_sum', 'draw_sum_roll_std', 'n4_delta')",-0.47179058545075847
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n5_mod3')",-0.47155333253229514
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n5_mod3')",-0.46940746079110696
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_delta2')",-0.46874088913842016
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n2_n3_sum')",-0.4685136673978434
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n1_n3_sum')",-0.468082444188628
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n2_delta')",-0.46771271826672134
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n2_n3_sum')",-0.46672136357525673
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n5_mod5')",-0.4664205280457807
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_mod3')",-0.46556804364661986
+4,"('draw_sum', 'draw_sum_roll_mean', 'draw_sum_roll_std', 'n2_delta')",-0.4654666052852505
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n2_n3_sum')",-0.4650085716007446
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_mod3')",-0.46460940485494007
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n2_n3_sum')",-0.4643005960558426
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n1_n3_sum')",-0.4639131647189778
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n3_delta2')",-0.4632634299647549
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_delta')",-0.46320988929758755
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_mod3', 'n3_delta')",-0.46267055257107614
+4,"('draw_std', 'draw_sum', 'n3_delta', 'n4_n5_sum')",-0.4618506740514299
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n1_n3_sum')",-0.4609805747229849
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n5_delta2')",-0.4605983927715762
+4,"('draw_range', 'draw_sum', 'n2_delta2', 'n2_n3_sum')",-0.46019857649050877
+4,"('draw_range', 'draw_sum', 'n2_mod5', 'n2_n3_sum')",-0.4589222905538435
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n4_mod5')",-0.45762257781750293
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n1_n3_sum')",-0.4549865074224968
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_delta')",-0.4544665511536259
+4,"('draw_std_roll_mean', 'draw_sum', 'draw_sum_roll_std', 'n4_delta')",-0.45439974997712085
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_mod3')",-0.4543678755542473
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_mod3', 'n3_delta')",-0.4543460909598167
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_mod3')",-0.45279767756021627
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_delta', 'n3_delta')",-0.45212159350651504
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n4_parity')",-0.4521001604322912
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n1_n3_sum')",-0.4513136718737485
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n2_delta')",-0.4512066265549173
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_delta2')",-0.4511351523048539
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n3_delta2')",-0.451068775209194
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_mod3')",-0.45012452239837586
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_mod3')",-0.44957426161112224
+4,"('draw_range_roll_std', 'draw_sum', 'n1_mod3', 'n1_mod7')",-0.44909119931750396
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_delta')",-0.4490868379725619
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n3_parity')",-0.4488115655524716
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_mod3')",-0.4481980543626243
+4,"('draw_std_roll_mean', 'draw_sum', 'draw_sum_roll_std', 'n3_delta')",-0.4478873638729084
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n5_mod3')",-0.44595591745988017
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n5_delta')",-0.44565142478981556
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n5_delta2')",-0.44546820746309024
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n1_parity')",-0.4452971998199331
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n2_n3_sum')",-0.4452331888099401
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n2_parity')",-0.44424842661119257
+4,"('draw_range', 'draw_sum', 'n4_delta', 'n4_delta2')",-0.44407764826390306
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n3_delta2')",-0.4434607707918907
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n1_n3_sum')",-0.4432711533308762
+4,"('draw_sum', 'n3_parity', 'n5_mod5', 'n5_mod7')",-0.44275038146579604
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n5_parity')",-0.44263772378396027
+4,"('draw_range_roll_mean', 'draw_sum', 'draw_sum_roll_std', 'n3_delta')",-0.44158084660267605
+4,"('draw_sum', 'n4_parity', 'n5_mod5', 'n5_mod7')",-0.44112341795020527
+4,"('draw_range', 'draw_sum', 'n2_mod3', 'n4_n5_sum')",-0.4406232456940913
+4,"('draw_sum', 'n1_n3_sum', 'n2_mod5', 'n2_mod7')",-0.4402948695192741
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n2_n3_sum')",-0.4402494706379656
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_mod3', 'n3_delta')",-0.44013294122910196
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n2_n3_sum')",-0.4391386340262855
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n4_delta')",-0.43799290395620716
+4,"('draw_std_roll_std', 'draw_sum', 'n1_mod3', 'n1_mod7')",-0.4377597198438039
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n5_parity')",-0.43747017010595357
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n4_parity')",-0.43551995585543324
+4,"('draw_std', 'draw_sum', 'n4_delta', 'n4_n5_sum')",-0.43539300436799167
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n1_parity')",-0.43486987984060477
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n2_n3_sum')",-0.43474080534351955
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_delta')",-0.43387938712719176
+4,"('draw_range', 'draw_sum', 'n1_n2_sum', 'n2_delta')",-0.43378660794884993
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_n5_sum')",-0.4337282535412754
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n1_n3_sum')",-0.4332129304284358
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n2_parity')",-0.43318449759853195
+4,"('draw_std', 'draw_sum', 'n2_mod5', 'n3_n5_sum')",-0.4313573938096589
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_mod3')",-0.4312213510612146
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_delta')",-0.43121252991016945
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n1_n3_sum')",-0.4309137978808266
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n4_mod5')",-0.4308457112716475
+4,"('draw_sum', 'n1_parity', 'n5_mod5', 'n5_mod7')",-0.4297007573963718
+4,"('draw_sum', 'n2_parity', 'n5_mod5', 'n5_mod7')",-0.42968683184389533
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_mod3')",-0.4294724499958207
+4,"('draw_range', 'draw_sum', 'mb_delta', 'n3_n5_sum')",-0.4289549332469029
+4,"('draw_sum', 'n1_n4_sum', 'n5_mod5', 'n5_mod7')",-0.4278289337392813
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n4_mod5')",-0.4277673565343534
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n3_parity')",-0.4274588684245231
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_delta', 'n3_delta')",-0.427261124842488
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n4_n5_sum')",-0.42587886596646385
+4,"('draw_range', 'draw_sum', 'n2_mod5', 'n3_n5_sum')",-0.42521857996242574
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n2_n3_sum')",-0.4238251515817595
+4,"('draw_std', 'draw_sum', 'n2_mod3', 'n2_n3_sum')",-0.4236966578179526
+4,"('draw_std', 'draw_sum', 'n3_mod5', 'n3_n5_sum')",-0.4222867402970252
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_mod3')",-0.42208708200108447
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n4_n5_sum')",-0.4219835714021585
+4,"('draw_range_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.42155587906638203
+4,"('draw_range', 'draw_sum', 'n4_mod3', 'n4_n5_sum')",-0.420583785678577
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_mod3')",-0.4201791493289342
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_mod5')",-0.4189615766074333
+4,"('draw_sum', 'n3_n4_sum', 'n5_mod5', 'n5_mod7')",-0.4188441652701407
+4,"('draw_range', 'draw_sum', 'n1_mod5', 'n3_n5_sum')",-0.41813689787556285
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_n3_sum')",-0.41769010301124965
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_delta')",-0.4174094552683769
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_delta')",-0.41724322195240404
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n2_n3_sum')",-0.4163697150033485
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n3_parity')",-0.4156453553725967
+4,"('draw_std_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.4151225252071242
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_mod3')",-0.41367362726214907
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n3_mod3')",-0.413639221679567
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_mod5')",-0.4132266042988668
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n4_delta')",-0.4127548453837626
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n4_delta2')",-0.4121263267435964
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_mod3')",-0.41189294595075765
+4,"('draw_range', 'draw_sum', 'n3_mod3', 'n4_n5_sum')",-0.4115249753066905
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_mod3')",-0.4113943907604565
+4,"('draw_std', 'draw_sum', 'mb_delta', 'n3_n5_sum')",-0.41112044993354147
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n5_delta')",-0.4101660572365695
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n2_n3_sum')",-0.40937851515475643
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n5_mod5')",-0.409302704435099
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n3_delta2')",-0.40925021975760245
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n4_n5_sum')",-0.408551526790216
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n4_mod3')",-0.4084950551005164
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n5_mod3')",-0.4080329275322647
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n5_mod3')",-0.40772281271511446
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n2_n3_sum')",-0.4073424555402525
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n2_n3_sum')",-0.40732884498751076
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_delta')",-0.40676988756100485
+4,"('draw_range_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n2_delta')",-0.40613596537843577
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n2_n5_sum')",-0.40608728951592354
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n5_mod5')",-0.4050656955554608
+4,"('draw_std', 'draw_sum', 'n1_mod5', 'n3_n5_sum')",-0.40400407902659907
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_mod3')",-0.4038409814334152
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n4_parity')",-0.4035259408960421
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n5_mod5')",-0.4031468915394072
+4,"('draw_sum', 'n2_n4_sum', 'n4_mod5', 'n4_mod7')",-0.40240626498420085
+4,"('draw_range', 'draw_sum', 'n3_mod5', 'n3_n5_sum')",-0.40157466418941823
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_delta2')",-0.4009264650349671
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n4_delta2')",-0.400399267238182
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n5_mod3')",-0.40018788304201536
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n4_n5_sum')",-0.3989456642870053
+4,"('draw_sum', 'draw_sum_roll_std', 'n1_mod3', 'n1_mod7')",-0.3989026618986493
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_n5_sum')",-0.39802361454556134
+4,"('draw_std_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n4_delta')",-0.3977889704818338
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_parity', 'n4_delta')",-0.39741381234552264
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n5_parity')",-0.39553932600011876
+4,"('draw_std', 'draw_sum', 'n4_n5_sum', 'n5_delta')",-0.3933328679768806
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_n5_sum')",-0.39149893989071316
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n5_delta')",-0.3914855036940743
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n5_parity')",-0.3907346941788816
+4,"('draw_range_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.39053438265721496
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n5_delta')",-0.3898901460056905
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n4_n5_sum')",-0.38841348056568137
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n4_n5_sum')",-0.38838808190499563
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_delta2')",-0.3879809119757347
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n4_n5_sum')",-0.38727061730429924
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_n3_sum')",-0.38600824362002584
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n2_delta')",-0.385575570933522
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n3_sum', 'n2_delta2')",-0.38304792883520733
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n5_delta2')",-0.38249688736776477
+4,"('draw_std_roll_mean', 'draw_sum', 'draw_sum_roll_mean', 'n3_delta')",-0.3820733385969177
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n4_delta')",-0.38156059580564516
+4,"('draw_range', 'draw_sum', 'n2_delta2', 'n3_n5_sum')",-0.38108451101647844
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_n5_sum')",-0.38073708745740475
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_n5_sum')",-0.38014473809986526
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_parity', 'n4_delta')",-0.3798279576723864
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n2_sum', 'n3_delta')",-0.3797928079802908
+4,"('draw_range', 'draw_sum', 'n1_parity', 'n4_n5_sum')",-0.3796647911875688
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n2_delta')",-0.37966421908802417
+4,"('draw_range', 'draw_sum', 'n3_parity', 'n4_n5_sum')",-0.37957569525943313
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n4_parity')",-0.3795633950680326
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n2_sum', 'n3_delta')",-0.3790086293452042
+4,"('draw_range', 'draw_sum', 'n2_parity', 'n4_n5_sum')",-0.3780166155028155
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_parity')",-0.3779620038010236
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n2_sum', 'n3_delta')",-0.3767838779440069
+4,"('draw_sum', 'n2_n4_sum', 'n3_mod5', 'n3_mod7')",-0.37505084878155515
+4,"('draw_std', 'draw_sum', 'n3_delta2', 'n3_n5_sum')",-0.3745191582532179
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_parity', 'n4_delta')",-0.37445418822954935
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_n5_sum')",-0.3742066229221237
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n4_delta')",-0.37411573185116254
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_parity', 'n3_delta')",-0.37374399141972603
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_parity')",-0.37352555624431716
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n1_n5_sum')",-0.37325167865395414
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n4_parity')",-0.37231884234957136
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_parity')",-0.3723040227778256
+4,"('draw_range', 'draw_sum', 'n3_delta2', 'n3_n5_sum')",-0.37185212406621204
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_mod5')",-0.371611450203698
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n5_delta2')",-0.37133187105456855
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n2_n3_sum')",-0.3711710633867824
+4,"('draw_range', 'draw_sum', 'n3_delta', 'n4_n5_sum')",-0.371049172403751
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n5_parity')",-0.3690391409666347
+4,"('draw_sum', 'n2_n4_sum', 'n5_mod5', 'n5_mod7')",-0.3687023583264022
+4,"('draw_std', 'draw_sum', 'n1_parity', 'n2_n3_sum')",-0.3631133947270797
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_parity', 'n2_delta2')",-0.36290125100991943
+4,"('draw_range', 'draw_sum', 'n4_delta', 'n4_n5_sum')",-0.3603522981352896
+4,"('draw_range', 'draw_sum', 'n1_n3_sum', 'n3_delta')",-0.3601838600127891
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n5_parity')",-0.35708193159526047
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_parity', 'n4_delta')",-0.35574352081621186
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n3_parity')",-0.3545497571928564
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n5_sum', 'n2_delta2')",-0.35412270013117464
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_parity')",-0.3540232249329591
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n5_parity')",-0.35379637694578037
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n5_parity')",-0.3535288890062951
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n4_n5_sum')",-0.35239022444804746
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_parity')",-0.35125710372404484
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n5_parity')",-0.349844570847214
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_parity', 'n4_delta')",-0.34858828252585283
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_parity')",-0.34815291855554875
+4,"('draw_std', 'draw_std_roll_std', 'draw_sum', 'n3_n5_sum')",-0.3478782842062742
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_parity')",-0.34703114884911557
+4,"('draw_range', 'draw_sum', 'n2_mod3', 'n3_n5_sum')",-0.346484473076778
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_parity')",-0.34640009650647485
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_parity')",-0.34551172154023746
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n4_parity')",-0.3453701839182415
+4,"('draw_std', 'draw_sum', 'n1_parity', 'n2_delta2')",-0.345315170785522
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n2_n3_sum')",-0.34373816855852724
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n3_n4_sum')",-0.3437070588972837
+4,"('draw_range', 'draw_sum', 'n1_parity', 'n4_delta2')",-0.34307915973886693
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n2_parity')",-0.3430368277124849
+4,"('draw_range', 'draw_sum', 'n3_parity', 'n4_delta2')",-0.34258439008441144
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_parity', 'n4_delta')",-0.3419609441918894
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_parity')",-0.3415758921978984
+4,"('draw_std', 'draw_sum', 'n2_mod3', 'n3_n5_sum')",-0.34115269399582715
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n5_parity')",-0.3404809079527027
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_n2_sum')",-0.3404603392048209
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n3_mod3')",-0.34015069678153864
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n5_parity')",-0.3392335107488691
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_parity', 'n3_delta')",-0.3387491830746896
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_parity', 'n4_delta')",-0.33814073292159463
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n4_mod3')",-0.3379210651508089
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n5_parity')",-0.33782799819779896
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_parity', 'n4_delta')",-0.337496899230306
+4,"('draw_std', 'draw_sum', 'n1_delta2', 'n3_n5_sum')",-0.3368963241836269
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n5_parity')",-0.33682897786792765
+4,"('draw_range', 'draw_sum', 'n1_delta2', 'n3_n5_sum')",-0.3366076686152084
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n4_parity')",-0.3363725684155092
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n5_delta')",-0.336297263386907
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n4_mod3')",-0.3361555759498174
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n4_parity')",-0.3361050166682986
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_parity', 'n4_delta')",-0.3357258914095347
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n3_parity')",-0.3357111598951974
+4,"('draw_std', 'draw_sum', 'n1_mod3', 'n3_n5_sum')",-0.33569979699161223
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_parity')",-0.33442665614925104
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n5_parity')",-0.334145978692721
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n4_n5_sum')",-0.3335945660805173
+4,"('draw_std', 'draw_sum', 'n3_mod3', 'n3_n5_sum')",-0.33303490009488357
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n5_parity')",-0.3329505478812571
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n2_parity')",-0.3317479003375752
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_parity')",-0.3301856064291542
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_n3_sum')",-0.3299210672426973
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n4_mod3')",-0.3297583436154419
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_parity')",-0.3294827439654071
+4,"('draw_range_roll_std', 'draw_std', 'draw_sum', 'n3_n5_sum')",-0.32883196432489825
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_n3_sum', 'n4_delta')",-0.3281209420592148
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n4_parity')",-0.32770477587737545
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_n3_sum', 'n4_delta')",-0.32707635370679355
+4,"('draw_range', 'draw_std_roll_std', 'draw_sum', 'n3_n5_sum')",-0.32584489034246644
+4,"('draw_range', 'draw_sum', 'n3_mod3', 'n3_n5_sum')",-0.3252809901968092
+4,"('draw_sum', 'n2_mod5', 'n2_mod7', 'n2_n4_sum')",-0.32506531392623117
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_n4_sum')",-0.32473818908747987
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n4_parity')",-0.324695944843878
+4,"('draw_range', 'draw_sum', 'n1_mod3', 'n3_n5_sum')",-0.32466203881891786
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_parity', 'n2_delta')",-0.3245990280691018
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n5_mod3')",-0.32340214371290443
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_n3_sum', 'n4_delta')",-0.3233063084810617
+4,"('draw_range', 'draw_sum', 'n2_mod3', 'n2_n3_sum')",-0.3222656579123395
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n4_parity')",-0.3222217421751985
+4,"('draw_std', 'draw_sum', 'n1_n3_sum', 'n3_delta')",-0.3218953232295405
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n5_parity')",-0.32105115906814774
+4,"('draw_range', 'draw_sum', 'n3_n4_sum', 'n4_delta2')",-0.3205609277353574
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n1_n4_sum')",-0.3200917931719829
+4,"('draw_std', 'draw_sum', 'n1_parity', 'n2_delta')",-0.3197365703392556
+4,"('draw_range', 'draw_sum', 'n1_n4_sum', 'n4_delta2')",-0.3195905121611382
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_parity')",-0.31804621981476444
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n5_mod3')",-0.31775771816692
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n3_parity')",-0.31763081428626805
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_n4_sum')",-0.3176140657119255
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_parity', 'n3_delta')",-0.3167303945129234
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n5_mod3')",-0.3157730368947824
+4,"('draw_range', 'draw_range_roll_std', 'draw_sum', 'n3_n5_sum')",-0.3156392376168107
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n5_parity')",-0.31551365715881374
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n3_sum', 'n4_delta')",-0.31504113261173217
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_parity')",-0.3147128569454196
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n5_parity')",-0.314166807503252
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_parity')",-0.3135485885822078
+4,"('draw_range', 'draw_sum', 'n2_parity', 'n4_delta2')",-0.31290109063487037
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_parity')",-0.3125143756272628
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_parity')",-0.31182074138516924
+4,"('draw_range', 'draw_sum', 'n4_delta2', 'n4_parity')",-0.311757559122551
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n3_parity')",-0.3110574707484446
+4,"('draw_range', 'draw_sum', 'n2_n5_sum', 'n4_delta2')",-0.30968183140898375
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_parity')",-0.3086786693689767
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_parity')",-0.3080666046312608
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_parity', 'n3_delta')",-0.3059622578217933
+4,"('draw_range', 'draw_sum', 'n1_parity', 'n3_n5_sum')",-0.3057421005365484
+4,"('draw_range', 'draw_sum', 'n1_parity', 'n2_delta')",-0.3057266101917655
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_parity')",-0.30425657471573686
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n4_parity')",-0.30314478765960473
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_parity')",-0.3021403174988464
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n5_parity')",-0.30139392657854813
+4,"('draw_std', 'draw_sum', 'n1_parity', 'n3_n5_sum')",-0.30110736497215385
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n5_parity')",-0.30056924041377897
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n4_parity')",-0.29926673944539317
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_parity', 'n3_delta')",-0.29815649037821856
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_std', 'n3_n5_sum')",-0.2964457850051616
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_n5_sum')",-0.29542738025940807
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n4_delta')",-0.2951957002593275
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n5_parity')",-0.29276135434793105
+4,"('draw_std', 'draw_sum', 'n2_parity', 'n3_n5_sum')",-0.2923614540112567
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_parity', 'n3_delta')",-0.29141213390719756
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n4_sum', 'n2_delta2')",-0.2901500878003276
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_n3_sum')",-0.28992268460810067
+4,"('draw_std', 'draw_sum', 'n1_n5_sum', 'n2_delta2')",-0.2898453286726159
+4,"('draw_range', 'draw_sum', 'n2_parity', 'n3_n5_sum')",-0.2893088904473977
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n3_parity')",-0.2883890166465477
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n3_sum', 'n4_delta')",-0.2881463842944143
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n4_parity')",-0.28619078753868976
+4,"('draw_std', 'draw_sum', 'n1_n4_sum', 'n2_delta2')",-0.2855668521040613
+4,"('draw_range', 'draw_sum', 'n1_n5_sum', 'n4_delta2')",-0.28301176695358166
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n4_n5_sum')",-0.28279705123627963
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_std', 'n3_n5_sum')",-0.2801327786047203
+4,"('draw_std', 'draw_sum', 'draw_sum_roll_mean', 'n3_n5_sum')",-0.2800454926340592
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_mod3')",-0.27949386066333304
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_mod3')",-0.27646204315148637
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n4_n5_sum')",-0.2757867441444226
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n3_parity')",-0.27555564938090527
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n3_parity')",-0.272417456402561
+4,"('draw_range', 'draw_sum', 'draw_sum_roll_mean', 'n3_n5_sum')",-0.2719532977867054
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_mod3')",-0.27178558858561885
+4,"('draw_range', 'draw_sum', 'n4_n5_sum', 'n5_delta')",-0.2706776162604214
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n4_delta')",-0.2660369303628727
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n5_mod3')",-0.26488804008280553
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_n5_sum')",-0.2641523914693842
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n5_sum', 'n4_delta')",-0.2616348989372703
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n4_parity')",-0.2606568966594196
+4,"('draw_std', 'draw_sum', 'n2_n3_sum', 'n3_delta')",-0.2605004602407348
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n3_sum', 'n4_delta')",-0.2590338751682033
+4,"('draw_range', 'draw_sum', 'n1_parity', 'n2_n3_sum')",-0.2587908814299382
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n2_parity')",-0.25715229757208036
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n4_n5_sum')",-0.256729128537593
+4,"('draw_range', 'draw_sum', 'n2_n4_sum', 'n4_delta2')",-0.25174855143774977
+4,"('draw_range', 'draw_sum', 'n1_n4_sum', 'n2_delta')",-0.2513757405075623
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n5_parity')",-0.25136371011091896
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n1_n3_sum')",-0.2511263333737297
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n4_n5_sum')",-0.2490641387104695
+4,"('draw_std', 'draw_std_roll_mean', 'draw_sum', 'n3_n5_sum')",-0.24666149256717063
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_n3_sum')",-0.24605607608987157
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n1_n5_sum')",-0.24598113383258635
+4,"('draw_range_roll_mean', 'draw_std', 'draw_sum', 'n3_n5_sum')",-0.24305973960172977
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n3_parity')",-0.22856650655101873
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n5_sum', 'n3_delta')",-0.22824830741679136
+4,"('draw_range', 'draw_std_roll_mean', 'draw_sum', 'n3_n5_sum')",-0.2280260244155201
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n5_sum', 'n4_delta')",-0.22753868654687182
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n5_sum', 'n2_delta')",-0.22467362284857728
+4,"('draw_sum', 'n1_mod5', 'n1_mod7', 'n2_n4_sum')",-0.22423062198318178
+4,"('draw_range', 'draw_std', 'draw_sum', 'n4_delta2')",-0.22375445256772153
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n1_n3_sum')",-0.22345979255258897
+4,"('draw_range', 'draw_sum', 'n3_n5_sum', 'n5_delta')",-0.2223954122516929
+4,"('draw_range', 'draw_std', 'draw_sum', 'n2_delta2')",-0.22209640514961393
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n4_parity')",-0.22087427592667908
+4,"('draw_std', 'draw_sum', 'n2_delta2', 'n2_n4_sum')",-0.2208263099949228
+4,"('draw_range', 'draw_range_roll_mean', 'draw_sum', 'n3_n5_sum')",-0.21893245433879827
+4,"('draw_range', 'draw_sum', 'n2_n3_sum', 'n3_delta')",-0.21727481332174747
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_n3_sum')",-0.21705026240113767
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n3_n5_sum')",-0.21322424729292067
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_n5_sum')",-0.21113929452325664
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n5_parity')",-0.21039043521349043
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n5_sum', 'n3_delta')",-0.2054188234419243
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_n3_sum')",-0.20500885463328444
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n5_sum', 'n4_delta')",-0.20278849634593854
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n2_sum', 'n2_delta')",-0.20243177488103115
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_n5_sum')",-0.20112655152556158
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_n5_sum')",-0.1991684153202371
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n5_sum', 'n3_delta')",-0.19908870734191453
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta2', 'n2_n4_sum')",-0.19766809905273064
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_parity')",-0.19742931662466745
+4,"('draw_range', 'draw_sum', 'n3_delta', 'n3_n5_sum')",-0.19357749517057599
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_n5_sum')",-0.18867526233210086
+4,"('draw_std', 'draw_sum', 'n3_n5_sum', 'n5_delta')",-0.18862046393094545
+4,"('draw_std', 'draw_sum', 'n1_n5_sum', 'n2_delta')",-0.1868885903107973
+4,"('draw_std', 'draw_sum', 'n3_delta', 'n3_n5_sum')",-0.18203792846978928
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_delta', 'n4_n5_sum')",-0.18201791654302468
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n1_n4_sum')",-0.18092087434926896
+4,"('draw_std', 'draw_sum', 'n1_n4_sum', 'n2_delta')",-0.1767770763298877
+4,"('draw_range', 'draw_std', 'draw_sum', 'n2_delta')",-0.17512241253776395
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_n3_sum')",-0.17483356030394148
+4,"('draw_sum', 'draw_sum_roll_mean', 'n4_delta', 'n4_n5_sum')",-0.17376972769203292
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n3_n4_sum')",-0.1662707358196478
+4,"('draw_range', 'draw_sum', 'n1_n5_sum', 'n2_delta')",-0.16264101421491617
+4,"('draw_range', 'draw_std', 'draw_sum', 'n2_n3_sum')",-0.16225998087244164
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n3_sum', 'n2_delta')",-0.16173449205497548
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n3_n4_sum')",-0.1582144793456166
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_n4_sum')",-0.15457432034825658
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_n5_sum')",-0.15285714986977084
+4,"('draw_std_roll_mean', 'draw_sum', 'n3_delta', 'n4_n5_sum')",-0.1484389289282504
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_n4_sum')",-0.14698727705766146
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_delta', 'n4_n5_sum')",-0.14271076872408628
+4,"('draw_range_roll_mean', 'draw_sum', 'n4_delta', 'n4_n5_sum')",-0.13654514146546148
+4,"('draw_std_roll_mean', 'draw_sum', 'n4_delta', 'n4_n5_sum')",-0.13559145687586494
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n3_n4_sum')",-0.13026230741836287
+4,"('draw_sum', 'n1_mod3', 'n1_mod7', 'n2_n4_sum')",-0.12917332056654374
+4,"('draw_range', 'draw_std', 'draw_sum', 'n1_n2_sum')",-0.12890743561349538
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n4_sum', 'n2_delta')",-0.1281491315215355
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n3_n5_sum')",-0.1268674139694319
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_n5_sum', 'n4_delta')",-0.1268504664410841
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_n5_sum', 'n4_delta')",-0.11981636509343119
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n4_sum', 'n3_delta')",-0.11673295595514688
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_n3_sum', 'n3_delta')",-0.1147979255607261
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n4_sum', 'n3_delta')",-0.11125240427887917
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_n3_sum', 'n3_delta')",-0.10999165282706613
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_n4_sum')",-0.0905104428684318
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_n3_sum', 'n3_delta')",-0.08838920724182486
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n3_n5_sum')",-0.08782831937196178
+4,"('draw_range', 'draw_sum', 'n2_delta', 'n2_n5_sum')",-0.08645592928724
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_delta', 'n2_n3_sum')",-0.08522292155416267
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n4_sum', 'n3_delta')",-0.08181039903437082
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n3_sum', 'n3_delta')",-0.08057363077855229
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_n5_sum', 'n4_delta')",-0.07787163497762606
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_n4_sum')",-0.07773565726353127
+4,"('draw_range_roll_mean', 'draw_sum', 'n2_n5_sum', 'n3_delta')",-0.07540378453383667
+4,"('draw_range_roll_mean', 'draw_sum', 'n1_n3_sum', 'n3_delta')",-0.07496558300724843
+4,"('draw_std_roll_mean', 'draw_sum', 'n1_n3_sum', 'n3_delta')",-0.07454941704455109
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n1_n4_sum')",-0.06752504951365168
+4,"('draw_std', 'draw_sum', 'n1_delta', 'n2_n5_sum')",-0.06627558004773348
+4,"('draw_std_roll_mean', 'draw_sum', 'n2_n5_sum', 'n3_delta')",-0.06480796098146513
+4,"('draw_range', 'draw_sum', 'n1_delta', 'n2_n5_sum')",-0.06288728646111608
+4,"('draw_range_roll_mean', 'draw_sum', 'n3_n5_sum', 'n4_delta')",-0.0604787781245264
+4,"('draw_sum', 'draw_sum_roll_mean', 'n2_n5_sum', 'n3_delta')",-0.05947672517486424
+4,"('draw_sum', 'draw_sum_roll_mean', 'n3_n5_sum', 'n4_delta')",-0.05832583854599349
+4,"('draw_range', 'draw_std', 'draw_sum', 'n1_n3_sum')",-0.055018879346810934
+4,"('draw_std', 'draw_sum', 'n2_delta', 'n2_n5_sum')",-0.05456927480596718
+4,"('draw_sum', 'draw_sum_roll_mean', 'n1_n4_sum', 'n4_delta')",-0.05217482199140022

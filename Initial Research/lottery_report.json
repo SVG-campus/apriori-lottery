@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-04-29T02:06:55.253010",
+  "Powerball": {
+    "ticket": [
+      18,
+      31,
+      32,
+      33,
+      36
+    ],
+    "powerball_number": 3,
+    "wf_hits_per_draw": 0.43,
+    "edge_vs_random_pct": 18.68,
+    "synergistic_sets": 1734
+  },
+  "MegaMillions": {
+    "ticket": [
+      7,
+      16,
+      32,
+      35,
+      40
+    ],
+    "mega_ball": 12,
+    "wf_hits_per_draw": 0.38,
+    "edge_vs_random_pct": 6.4,
+    "synergistic_sets": 1624
+  },
+  "method": "MC + XGBoost + Apriori/O-Info Synergy Fusion"
+}
